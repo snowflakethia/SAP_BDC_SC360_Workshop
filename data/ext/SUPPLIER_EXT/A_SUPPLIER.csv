@@ -1,0 +1,10 @@
+"SUPPLIER","SUPPLIER_NAME","CITY","COUNTRY","LATITUDE","LONGITUDE","SUPPLIER_CATEGORY","QUALITY_BASE","OTD_BASE"
+"SUP-007","Carl Zeiss SMT","Oberkochen","Germany",48.7853,10.1047,"Precision Optics",98.8,96
+"SUP-008","Edwards Vacuum","Burgess Hill","United Kingdom",50.958,-0.131,"Vacuum Systems",97.9,93
+"SUP-009","Jenoptik","Jena","Germany",50.9271,11.5892,"Optical Modules",98.2,94
+"SUP-010","Physik Instrumente","Karlsruhe","Germany",49.0069,8.4037,"Motion Control",98.5,95
+"SUP-011","Sony Semiconductor Solutions","Atsugi","Japan",35.4433,139.3625,"Image Sensors",98.6,97
+"SUP-012","Gigaphoton","Oyama","Japan",36.3147,139.8003,"Excimer / UV Lasers",97.4,91
+"SUP-013","Kulicke & Soffa","Singapore","Singapore",1.3521,103.8198,"Assembly Automation",97.8,94
+"SUP-014","Venture Corporation","Singapore","Singapore",1.3329,103.7436,"Electronics Mfg",97.2,92
+"SUP-015","Ultra Clean Holdings","Hayward","United States",37.6688,-122.0808,"Subsystems",97,90

@@ -1,0 +1,31 @@
+"BOM_NUMBER","BOM_LEVEL","PARENT_MATERIAL","PARENT_DESC","COMPONENT_MATERIAL","COMPONENT_DESC","COMPONENT_QTY","COMPONENT_UOM","BASE_QTY","ITEM_CATEGORY","COMPONENT_COST"
+"BOM-001",0,"MAT-1001","KLA 8935 Wafer Inspection System","COMP-100","Broadband Light Source",1.00,"EA",1.00,"Stock",85000.00
+"BOM-001",0,"MAT-1001","KLA 8935 Wafer Inspection System","COMP-101","High-Res CCD Array",2.00,"EA",1.00,"Stock",42000.00
+"BOM-001",0,"MAT-1001","KLA 8935 Wafer Inspection System","COMP-102","Precision Motion Stage",1.00,"EA",1.00,"Stock",67000.00
+"BOM-001",0,"MAT-1001","KLA 8935 Wafer Inspection System","COMP-103","Control Electronics Cabinet",1.00,"EA",1.00,"Stock",34000.00
+"BOM-001",1,"COMP-100","Broadband Light Source","COMP-110","Xenon Arc Lamp Module",2.00,"EA",1.00,"Stock",12500.00
+"BOM-001",1,"COMP-100","Broadband Light Source","COMP-111","Optical Fiber Bundle",4.00,"EA",1.00,"Stock",3200.00
+"BOM-001",1,"COMP-102","Precision Motion Stage","COMP-120","Linear Motor Assembly",2.00,"EA",1.00,"Stock",15000.00
+"BOM-001",1,"COMP-102","Precision Motion Stage","COMP-121","Granite Base Plate",1.00,"EA",1.00,"Stock",8500.00
+"BOM-002",0,"MAT-1002","KLA eSL10 e-Beam Review","COMP-200","Electron Column Assembly",1.00,"EA",1.00,"Stock",120000.00
+"BOM-002",0,"MAT-1002","KLA eSL10 e-Beam Review","COMP-201","Vacuum Chamber",1.00,"EA",1.00,"Stock",55000.00
+"BOM-002",0,"MAT-1002","KLA eSL10 e-Beam Review","COMP-202","Detector Assembly",1.00,"EA",1.00,"Stock",38000.00
+"BOM-002",1,"COMP-200","Electron Column Assembly","COMP-210","Field Emission Source",1.00,"EA",1.00,"Stock",45000.00
+"BOM-002",1,"COMP-200","Electron Column Assembly","COMP-211","Electromagnetic Lens Stack",3.00,"EA",1.00,"Stock",18000.00
+"BOM-003",0,"MAT-1003","Surfscan SP7XP","COMP-300","UV Laser Module",1.00,"EA",1.00,"Stock",92000.00
+"BOM-003",0,"MAT-1003","Surfscan SP7XP","COMP-301","Scanning Optics Assembly",1.00,"EA",1.00,"Stock",48000.00
+"BOM-003",0,"MAT-1003","Surfscan SP7XP","COMP-302","Wafer Handler",1.00,"EA",1.00,"Stock",35000.00
+"BOM-003",1,"COMP-300","UV Laser Module","COMP-310","Solid-State UV Laser",1.00,"EA",1.00,"Stock",55000.00
+"BOM-004",0,"MAT-1005","Archer 750 Overlay Metrology","COMP-500","Broadband Illuminator",1.00,"EA",1.00,"Stock",62000.00
+"BOM-004",0,"MAT-1005","Archer 750 Overlay Metrology","COMP-501","Imaging Objective Lens",2.00,"EA",1.00,"Stock",28000.00
+"BOM-004",1,"COMP-501","Imaging Objective Lens","COMP-510","AR-Coated Element Set",4.00,"EA",1.00,"Stock",5500.00
+"BOM-005",0,"MAT-1004","ICOS F160 Die Sorter","COMP-400","Pick-Place Head",4.00,"EA",1.00,"Stock",22000.00
+"BOM-005",0,"MAT-1004","ICOS F160 Die Sorter","COMP-401","Vision Camera Module",8.00,"EA",1.00,"Stock",8500.00
+"BOM-005",0,"MAT-1004","ICOS F160 Die Sorter","COMP-402","Conveyor System",1.00,"EA",1.00,"Stock",45000.00
+"BOM-005",1,"COMP-400","Pick-Place Head","COMP-410","Vacuum Gripper",4.00,"EA",1.00,"Non-Stock",1800.00
+"BOM-006",0,"MAT-1006","Candela CS920 Surface Analyzer","COMP-600","Multi-Wavelength Laser Bank",1.00,"EA",1.00,"Stock",78000.00
+"BOM-006",0,"MAT-1006","Candela CS920 Surface Analyzer","COMP-601","Reflectance Detector Array",1.00,"EA",1.00,"Stock",32000.00
+"BOM-007",0,"MAT-1007","Puma 9980 Laser Scanning","COMP-700","Deep-UV Laser",1.00,"EA",1.00,"Stock",105000.00
+"BOM-007",0,"MAT-1007","Puma 9980 Laser Scanning","COMP-701","Galvo Scanner Assembly",2.00,"EA",1.00,"Stock",18000.00
+"BOM-008",0,"MAT-1008","Kronos 1190 WI Patterned Inspection","COMP-800","Dual-Mode Optics",1.00,"EA",1.00,"Stock",95000.00
+"BOM-008",0,"MAT-1008","Kronos 1190 WI Patterned Inspection","COMP-801","TDI Line Sensor",2.00,"EA",1.00,"Stock",42000.00

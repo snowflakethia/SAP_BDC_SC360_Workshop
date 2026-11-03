@@ -1,0 +1,19 @@
+"PROJECT_ID","WBS_ELEMENT","WBS_DESCRIPTION","PARENT_WBS","LEVEL"
+"PRJ-001","WBS-001-01","Optical Design Phase","PRJ-001",1
+"PRJ-001","WBS-001-02","Prototype Build","PRJ-001",1
+"PRJ-001","WBS-001-03","Integration Testing","PRJ-001",1
+"PRJ-002","WBS-002-01","EUV Source Development","PRJ-002",1
+"PRJ-002","WBS-002-02","Algorithm Development","PRJ-002",1
+"PRJ-003","WBS-003-01","Facility Construction","PRJ-003",1
+"PRJ-003","WBS-003-02","Equipment Installation","PRJ-003",1
+"PRJ-003","WBS-003-03","Qualification","PRJ-003",1
+"PRJ-004","WBS-004-01","Data Collection","PRJ-004",1
+"PRJ-004","WBS-004-02","Model Training","PRJ-004",1
+"PRJ-005","WBS-005-01","Test Script Development","PRJ-005",1
+"PRJ-005","WBS-005-02","Framework Integration","PRJ-005",1
+"PRJ-006","WBS-006-01","Facility Prep","PRJ-006",1
+"PRJ-006","WBS-006-02","Equipment Install","PRJ-006",1
+"PRJ-006","WBS-006-03","Line Qualification","PRJ-006",1
+"PRJ-007","WBS-007-01","Concept Design","PRJ-007",1
+"PRJ-008","WBS-008-01","Requirements","PRJ-008",1
+"PRJ-008","WBS-008-02","Data Integration","PRJ-008",1

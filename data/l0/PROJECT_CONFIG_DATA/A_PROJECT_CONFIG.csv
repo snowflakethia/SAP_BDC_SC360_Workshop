@@ -1,0 +1,7 @@
+"PROJECT_ID","CONFIG_KEY","CONFIG_VALUE","DESCRIPTION"
+"PRJ-001","BUDGET_THRESHOLD","5","Variance % before alert"
+"PRJ-001","REVIEW_CYCLE","Monthly","Milestone review frequency"
+"PRJ-002","BUDGET_THRESHOLD","8","Variance % before alert"
+"PRJ-003","BUDGET_THRESHOLD","10","Variance % before alert"
+"PRJ-003","REVIEW_CYCLE","Bi-Weekly","Milestone review frequency"
+"PRJ-006","BUDGET_THRESHOLD","5","Variance % before alert"

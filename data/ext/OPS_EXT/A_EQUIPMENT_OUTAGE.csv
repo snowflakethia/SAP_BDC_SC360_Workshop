@@ -1,0 +1,26 @@
+"EQUIPMENT_ID","PLANT","WORK_CENTER","START_DATE","DOWNTIME_HRS","EVENT_TYPE","ROOT_CAUSE","OUTAGE_ID","REPAIR_COST_USD"
+"EQ-ASM4-1","4000","WC-ASM4","2025-01-15",7.5,"Failure","Laser power drift","OUT-0003",18000
+"EQ-ASM4-1","4000","WC-ASM4","2025-05-17",7,"Failure","Controller fault","OUT-0002",16800
+"EQ-ASM4-1","4000","WC-ASM4","2025-05-22",5.4,"Failure","Coolant flow loss","OUT-0001",12960
+"EQ-DEP2-1","2000","WC-DEP2","2025-02-07",32.6,"Corrective","Coolant flow loss","OUT-0004",78240
+"EQ-DEP2-1","2000","WC-DEP2","2025-05-28",6.9,"Corrective","Stage encoder error","OUT-0005",16560
+"EQ-DEP2-2","2000","WC-DEP2","2025-01-31",8.2,"Planned PM","Controller fault","OUT-0006",0
+"EQ-DEPO-2","1000","WC-DEPO","2025-03-19",20.8,"Failure","Coolant flow loss","OUT-0008",66560
+"EQ-DEPO-2","1000","WC-DEPO","2025-05-31",4.1,"Planned PM","Stage encoder error","OUT-0007",0
+"EQ-ETC2-1","2000","WC-ETC2","2025-03-14",6.5,"Corrective","Bearing wear","OUT-0009",20800
+"EQ-ETC2-1","2000","WC-ETC2","2025-03-18",7.1,"Corrective","Vacuum leak","OUT-0011",22720
+"EQ-ETC2-1","2000","WC-ETC2","2025-06-19",9.3,"Corrective","Stage encoder error","OUT-0010",29760
+"EQ-ETCH-1","1000","WC-ETCH","2025-08-10",17.6,"Planned PM","Stage encoder error","OUT-0012",0
+"EQ-INS2-1","2000","WC-INS2","2025-06-22",5.7,"Corrective","Bearing wear","OUT-0013",18240
+"EQ-INSP-1","1000","WC-INSP","2025-03-23",24.2,"Corrective","Vacuum leak","OUT-0015",58080
+"EQ-INSP-1","1000","WC-INSP","2025-05-31",26.8,"Failure","Controller fault","OUT-0016",64320
+"EQ-INSP-1","1000","WC-INSP","2025-08-20",6.8,"Planned PM","Bearing wear","OUT-0014",0
+"EQ-LIT2-1","2000","WC-LIT2","2025-02-25",10.4,"Failure","Controller fault","OUT-0017",18720
+"EQ-LIT2-2","2000","WC-LIT2","2025-05-03",5.4,"Failure","Bearing wear","OUT-0018",12960
+"EQ-LIT2-2","2000","WC-LIT2","2025-08-11",3.3,"Corrective","Coolant flow loss","OUT-0019",7920
+"EQ-LIT3-2","3000","WC-LIT3","2025-05-09",3.6,"Corrective","Coolant flow loss","OUT-0021",11520
+"EQ-LIT3-2","3000","WC-LIT3","2025-05-18",18.1,"Failure","Stage encoder error","OUT-0020",57920
+"EQ-LITHO-1","1000","WC-LITHO","2025-04-10",23.8,"Failure","Bearing wear","OUT-0022",42840
+"EQ-LITHO-1","1000","WC-LITHO","2025-08-12",38,"Failure","Stage encoder error after 5 days of rising vibration (same pattern now on EQ-LIT2-1)","OUT-0025",68400
+"EQ-LITHO-2","1000","WC-LITHO","2025-01-14",9.7,"Corrective","Controller fault","OUT-0023",23280
+"EQ-PKG5-1","5000","WC-PKG5","2025-01-14",6.8,"Planned PM","Bearing wear","OUT-0024",0

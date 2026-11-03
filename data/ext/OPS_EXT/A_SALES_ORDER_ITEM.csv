@@ -1,0 +1,421 @@
+"SALES_ORDER","ITEM","SOLD_TO","MATERIAL","MATERIAL_DESC","PLANT","SHIPPING_POINT","ORDER_QTY","NET_VALUE_USD","REQUESTED_SHIP_DATE","ACTUAL_SHIP_DATE","ON_TIME","IN_FULL","DELAY_DAYS","LATE_CAUSE","PENALTY_USD","EXPEDITE_USD","LATE_COST_USD","ORDER_STATUS","MARGIN_PER_UNIT_USD"
+"SO-4500100",10,"Micron Technology","MAT-1001","KLA 8935 Wafer Inspection System","2000","SP03",2,1296000,"2025-06-26","2025-06-26",true,true,0,"\N",0,0,0,"Shipped",337500
+"SO-4500101",10,"Intel Fab","MAT-1001","KLA 8935 Wafer Inspection System","1000","SP01",1,648000,"2025-07-04","2025-07-04",true,true,0,"\N",0,0,0,"Shipped",337500
+"SO-4500102",10,"Samsung Semiconductor","MAT-1003","Surfscan SP7XP","1000","SP02",1,420000,"2025-09-29","2025-09-29",true,true,0,"\N",0,0,0,"Shipped",218800
+"SO-4500103",10,"Infineon Technologies","MAT-1001","KLA 8935 Wafer Inspection System","2000","SP03",2,1296000,"2025-07-20","2025-07-20",true,true,0,"\N",0,0,0,"Shipped",337500
+"SO-4500104",10,"GlobalFoundries","MAT-1001","KLA 8935 Wafer Inspection System","1000","SP01",1,648000,"2025-05-29","2025-05-29",true,true,0,"\N",0,0,0,"Shipped",337500
+"SO-4500105",10,"TSMC","MAT-1008","Kronos 1190 WI Patterned Inspection","1000","SP02",1,430000,"2025-08-02","2025-08-11",false,true,9,"MATERIAL_SHORTAGE",19350,8500,27850,"Shipped",224200
+"SO-4500106",10,"Micron Technology","MAT-1002","KLA eSL10 e-Beam Review","3000","SP04",1,511000,"2025-09-10","2025-09-10",true,true,0,"\N",0,0,0,"Shipped",266000
+"SO-4500107",10,"Texas Instruments","MAT-1006","Candela CS920 Surface Analyzer","1000","SP02",1,264000,"2025-02-19","2025-02-19",true,true,0,"\N",0,0,0,"Shipped",137500
+"SO-4500108",10,"Infineon Technologies","MAT-1006","Candela CS920 Surface Analyzer","1000","SP02",1,264000,"2025-06-28","2025-07-06",false,true,8,"MATERIAL_SHORTAGE",10560,14000,24560,"Shipped",137500
+"SO-4500109",10,"Samsung Semiconductor","MAT-1007","Puma 9980 Laser Scanning","1000","SP01",1,338000,"2025-08-16","2025-08-16",true,true,0,"\N",0,0,0,"Shipped",175800
+"SO-4500110",10,"GlobalFoundries","MAT-1004","ICOS F160 Die Sorter","1000","SP01",1,482000,"2025-05-07","2025-05-14",false,true,7,"MATERIAL_SHORTAGE",16870,8500,25370,"Shipped",250900
+"SO-4500111",10,"GlobalFoundries","MAT-1002","KLA eSL10 e-Beam Review","3000","SP04",1,511000,"2025-03-11","2025-03-24",false,true,13,"MATERIAL_SHORTAGE",25550,0,25550,"Shipped",266000
+"SO-4500112",10,"GlobalFoundries","MAT-1006","Candela CS920 Surface Analyzer","1000","SP01",1,264000,"2025-01-16","2025-01-16",true,true,0,"\N",0,0,0,"Shipped",137500
+"SO-4500113",10,"SK Hynix","MAT-1004","ICOS F160 Die Sorter","5000","SP06",1,482000,"2025-02-07","2025-02-07",true,true,0,"\N",0,0,0,"Shipped",250900
+"SO-4500114",10,"SK Hynix","MAT-1007","Puma 9980 Laser Scanning","1000","SP01",2,676000,"2025-04-01","2025-04-01",true,true,0,"\N",0,0,0,"Shipped",175800
+"SO-4500115",10,"Intel Fab","MAT-1004","ICOS F160 Die Sorter","1000","SP02",1,482000,"2025-09-20","2025-09-20",true,true,0,"\N",0,0,0,"Shipped",250900
+"SO-4500116",10,"Intel Fab","MAT-1002","KLA eSL10 e-Beam Review","1000","SP01",1,511000,"2025-04-14","2025-04-25",false,true,11,"MATERIAL_SHORTAGE",25550,0,25550,"Shipped",266000
+"SO-4500117",10,"TSMC","MAT-1006","Candela CS920 Surface Analyzer","3000","SP04",1,264000,"2025-04-07","2025-04-07",true,true,0,"\N",0,0,0,"Shipped",137500
+"SO-4500118",10,"Infineon Technologies","MAT-1002","KLA eSL10 e-Beam Review","2000","SP03",1,511000,"2025-02-08","2025-02-08",true,true,0,"\N",0,0,0,"Shipped",266000
+"SO-4500119",10,"Micron Technology","MAT-1001","KLA 8935 Wafer Inspection System","2000","SP03",2,1296000,"2025-06-08","2025-06-08",true,true,0,"\N",0,0,0,"Shipped",337500
+"SO-4500120",10,"SK Hynix","MAT-1008","Kronos 1190 WI Patterned Inspection","1000","SP02",2,860000,"2025-05-23","2025-05-23",true,true,0,"\N",0,0,0,"Shipped",224200
+"SO-4500121",10,"SK Hynix","MAT-1002","KLA eSL10 e-Beam Review","3000","SP04",2,1022000,"2025-05-21","2025-05-21",true,true,0,"\N",0,0,0,"Shipped",266000
+"SO-4500122",10,"Intel Fab","MAT-1004","ICOS F160 Die Sorter","5000","SP06",1,482000,"2025-04-02","2025-04-02",true,true,0,"\N",0,0,0,"Shipped",250900
+"SO-4500123",10,"Micron Technology","MAT-1001","KLA 8935 Wafer Inspection System","2000","SP03",2,1296000,"2025-02-25","2025-02-25",true,true,0,"\N",0,0,0,"Shipped",337500
+"SO-4500124",10,"TSMC","MAT-1002","KLA eSL10 e-Beam Review","1000","SP01",2,1022000,"2025-08-30","2025-08-30",true,true,0,"\N",0,0,0,"Shipped",266000
+"SO-4500125",10,"Intel Fab","MAT-1007","Puma 9980 Laser Scanning","1000","SP01",3,1014000,"2025-04-07","2025-04-18",false,true,11,"MATERIAL_SHORTAGE",50700,14000,64700,"Shipped",175800
+"SO-4500126",10,"Intel Fab","MAT-1008","Kronos 1190 WI Patterned Inspection","1000","SP02",1,430000,"2025-04-01","2025-04-01",true,true,0,"\N",0,0,0,"Shipped",224200
+"SO-4500127",10,"Intel Fab","MAT-1004","ICOS F160 Die Sorter","5000","SP06",3,1446000,"2025-04-17","2025-04-17",true,true,0,"\N",0,0,0,"Shipped",250900
+"SO-4500128",10,"Intel Fab","MAT-1002","KLA eSL10 e-Beam Review","3000","SP04",1,511000,"2025-08-25","2025-08-25",true,true,0,"\N",0,0,0,"Shipped",266000
+"SO-4500129",10,"Samsung Semiconductor","MAT-1003","Surfscan SP7XP","1000","SP02",3,1260000,"2025-07-12","2025-07-12",true,true,0,"\N",0,0,0,"Shipped",218800
+"SO-4500130",10,"Intel Fab","MAT-1001","KLA 8935 Wafer Inspection System","1000","SP02",2,1296000,"2025-08-16","2025-08-21",false,true,5,"MATERIAL_SHORTAGE",32400,8500,40900,"Shipped",337500
+"SO-4500131",10,"Micron Technology","MAT-1008","Kronos 1190 WI Patterned Inspection","1000","SP01",1,430000,"2025-07-15","2025-07-15",true,true,0,"\N",0,0,0,"Shipped",224200
+"SO-4500132",10,"Infineon Technologies","MAT-1007","Puma 9980 Laser Scanning","1000","SP02",2,676000,"2025-09-04","2025-09-04",true,true,0,"\N",0,0,0,"Shipped",175800
+"SO-4500133",10,"Samsung Semiconductor","MAT-1007","Puma 9980 Laser Scanning","1000","SP01",3,1014000,"2025-05-12","2025-05-12",true,true,0,"\N",0,0,0,"Shipped",175800
+"SO-4500134",10,"Infineon Technologies","MAT-1007","Puma 9980 Laser Scanning","1000","SP02",1,338000,"2025-02-18","2025-02-18",true,true,0,"\N",0,0,0,"Shipped",175800
+"SO-4500135",10,"Samsung Semiconductor","MAT-1004","ICOS F160 Die Sorter","1000","SP01",2,964000,"2025-09-01","2025-09-01",true,true,0,"\N",0,0,0,"Shipped",250900
+"SO-4500136",10,"TSMC","MAT-1001","KLA 8935 Wafer Inspection System","1000","SP01",1,648000,"2025-07-15","2025-07-15",true,true,0,"\N",0,0,0,"Shipped",337500
+"SO-4500137",10,"TSMC","MAT-1004","ICOS F160 Die Sorter","1000","SP01",1,482000,"2025-02-15","2025-03-01",false,false,14,"MATERIAL_SHORTAGE",24100,0,24100,"Shipped",250900
+"SO-4500138",10,"Infineon Technologies","MAT-1007","Puma 9980 Laser Scanning","1000","SP01",1,338000,"2025-03-31","2025-03-31",true,true,0,"\N",0,0,0,"Shipped",175800
+"SO-4500139",10,"Micron Technology","MAT-1007","Puma 9980 Laser Scanning","1000","SP02",2,676000,"2025-02-16","2025-02-16",true,true,0,"\N",0,0,0,"Shipped",175800
+"SO-4500140",10,"GlobalFoundries","MAT-1003","Surfscan SP7XP","5000","SP06",1,420000,"2025-09-27","2025-09-27",true,true,0,"\N",0,0,0,"Shipped",218800
+"SO-4500141",10,"Micron Technology","MAT-1006","Candela CS920 Surface Analyzer","1000","SP01",2,528000,"2025-07-21","2025-07-24",false,true,3,"MATERIAL_SHORTAGE",7920,22000,29920,"Shipped",137500
+"SO-4500142",10,"SK Hynix","MAT-1008","Kronos 1190 WI Patterned Inspection","1000","SP01",2,860000,"2025-07-07","2025-07-07",true,true,0,"\N",0,0,0,"Shipped",224200
+"SO-4500143",10,"GlobalFoundries","MAT-1007","Puma 9980 Laser Scanning","1000","SP02",2,676000,"2025-06-16","2025-06-16",true,true,0,"\N",0,0,0,"Shipped",175800
+"SO-4500144",10,"GlobalFoundries","MAT-1008","Kronos 1190 WI Patterned Inspection","1000","SP01",1,430000,"2025-06-04","2025-06-14",false,true,10,"MATERIAL_SHORTAGE",21500,0,21500,"Shipped",224200
+"SO-4500145",10,"GlobalFoundries","MAT-1001","KLA 8935 Wafer Inspection System","2000","SP03",1,648000,"2025-03-11","2025-03-11",true,true,0,"\N",0,0,0,"Shipped",337500
+"SO-4500146",10,"Samsung Semiconductor","MAT-1001","KLA 8935 Wafer Inspection System","1000","SP01",3,1944000,"2025-01-28","2025-02-04",false,true,7,"MATERIAL_SHORTAGE",68040,8500,76540,"Shipped",337500
+"SO-4500147",10,"GlobalFoundries","MAT-1008","Kronos 1190 WI Patterned Inspection","1000","SP01",1,430000,"2025-05-23","2025-05-28",false,false,5,"EQUIPMENT",10750,22000,32750,"Shipped",224200
+"SO-4500148",10,"Samsung Semiconductor","MAT-1006","Candela CS920 Surface Analyzer","3000","SP04",2,528000,"2025-04-17","2025-04-17",true,true,0,"\N",0,0,0,"Shipped",137500
+"SO-4500149",10,"Micron Technology","MAT-1006","Candela CS920 Surface Analyzer","1000","SP02",2,528000,"2025-09-15","2025-09-15",true,true,0,"\N",0,0,0,"Shipped",137500
+"SO-4500150",10,"Micron Technology","MAT-1003","Surfscan SP7XP","5000","SP06",2,840000,"2025-01-14","2025-01-14",true,true,0,"\N",0,0,0,"Shipped",218800
+"SO-4500151",10,"Samsung Semiconductor","MAT-1004","ICOS F160 Die Sorter","1000","SP01",2,964000,"2025-05-28","2025-05-28",true,true,0,"\N",0,0,0,"Shipped",250900
+"SO-4500152",10,"Intel Fab","MAT-1001","KLA 8935 Wafer Inspection System","2000","SP03",3,1944000,"2025-03-04","2025-03-04",true,true,0,"\N",0,0,0,"Shipped",337500
+"SO-4500153",10,"Samsung Semiconductor","MAT-1005","Archer 750 Overlay Metrology","2000","SP03",1,283000,"2025-03-22","2025-03-22",true,true,0,"\N",0,0,0,"Shipped",147300
+"SO-4500154",10,"Samsung Semiconductor","MAT-1003","Surfscan SP7XP","5000","SP06",2,840000,"2025-04-01","2025-04-01",true,true,0,"\N",0,0,0,"Shipped",218800
+"SO-4500155",10,"Infineon Technologies","MAT-1005","Archer 750 Overlay Metrology","3000","SP04",2,566000,"2025-05-22","2025-05-22",true,true,0,"\N",0,0,0,"Shipped",147300
+"SO-4500156",10,"Texas Instruments","MAT-1004","ICOS F160 Die Sorter","5000","SP06",2,964000,"2025-08-26","2025-08-31",false,true,5,"PERFORMANCE",24100,14000,38100,"Shipped",250900
+"SO-4500157",10,"TSMC","MAT-1002","KLA eSL10 e-Beam Review","3000","SP04",1,511000,"2025-08-23","2025-08-23",true,true,0,"\N",0,0,0,"Shipped",266000
+"SO-4500158",10,"SK Hynix","MAT-1005","Archer 750 Overlay Metrology","3000","SP04",2,566000,"2025-04-28","2025-05-09",false,true,11,"MATERIAL_SHORTAGE",28300,14000,42300,"Shipped",147300
+"SO-4500159",10,"GlobalFoundries","MAT-1002","KLA eSL10 e-Beam Review","1000","SP02",2,1022000,"2025-03-14","2025-03-19",false,false,5,"PERFORMANCE",25550,22000,47550,"Shipped",266000
+"SO-4500160",10,"Micron Technology","MAT-1004","ICOS F160 Die Sorter","5000","SP06",2,964000,"2025-03-14","2025-03-14",true,true,0,"\N",0,0,0,"Shipped",250900
+"SO-4500161",10,"SK Hynix","MAT-1006","Candela CS920 Surface Analyzer","3000","SP04",1,264000,"2025-08-08","2025-08-08",true,true,0,"\N",0,0,0,"Shipped",137500
+"SO-4500162",10,"Intel Fab","MAT-1002","KLA eSL10 e-Beam Review","2000","SP03",2,1022000,"2025-08-24","2025-08-24",true,true,0,"\N",0,0,0,"Shipped",266000
+"SO-4500163",10,"GlobalFoundries","MAT-1007","Puma 9980 Laser Scanning","1000","SP01",1,338000,"2025-08-29","2025-08-29",true,true,0,"\N",0,0,0,"Shipped",175800
+"SO-4500164",10,"GlobalFoundries","MAT-1002","KLA eSL10 e-Beam Review","1000","SP01",3,1533000,"2025-01-18","2025-01-18",true,true,0,"\N",0,0,0,"Shipped",266000
+"SO-4500165",10,"Infineon Technologies","MAT-1001","KLA 8935 Wafer Inspection System","1000","SP02",1,648000,"2025-05-15","2025-05-23",false,false,8,"MATERIAL_SHORTAGE",25920,22000,47920,"Shipped",337500
+"SO-4500166",10,"Micron Technology","MAT-1002","KLA eSL10 e-Beam Review","1000","SP01",1,511000,"2025-04-17","2025-04-17",true,true,0,"\N",0,0,0,"Shipped",266000
+"SO-4500167",10,"GlobalFoundries","MAT-1008","Kronos 1190 WI Patterned Inspection","1000","SP02",2,860000,"2025-05-24","2025-05-24",true,true,0,"\N",0,0,0,"Shipped",224200
+"SO-4500168",10,"Infineon Technologies","MAT-1001","KLA 8935 Wafer Inspection System","2000","SP03",1,648000,"2025-01-15","2025-01-15",true,true,0,"\N",0,0,0,"Shipped",337500
+"SO-4500169",10,"Intel Fab","MAT-1007","Puma 9980 Laser Scanning","1000","SP02",1,338000,"2025-06-18","2025-06-18",true,true,0,"\N",0,0,0,"Shipped",175800
+"SO-4500170",10,"Texas Instruments","MAT-1007","Puma 9980 Laser Scanning","1000","SP02",3,1014000,"2025-08-09","2025-08-09",true,true,0,"\N",0,0,0,"Shipped",175800
+"SO-4500171",10,"GlobalFoundries","MAT-1007","Puma 9980 Laser Scanning","1000","SP02",3,1014000,"2025-09-18","2025-09-18",true,true,0,"\N",0,0,0,"Shipped",175800
+"SO-4500172",10,"Infineon Technologies","MAT-1003","Surfscan SP7XP","1000","SP01",1,420000,"2025-09-07","2025-09-07",true,true,0,"\N",0,0,0,"Shipped",218800
+"SO-4500173",10,"Texas Instruments","MAT-1003","Surfscan SP7XP","1000","SP01",2,840000,"2025-04-09","2025-04-09",true,true,0,"\N",0,0,0,"Shipped",218800
+"SO-4500174",10,"Intel Fab","MAT-1005","Archer 750 Overlay Metrology","2000","SP03",1,283000,"2025-06-15","2025-06-15",true,true,0,"\N",0,0,0,"Shipped",147300
+"SO-4500175",10,"SK Hynix","MAT-1002","KLA eSL10 e-Beam Review","1000","SP01",3,1533000,"2025-04-17","2025-05-04",false,false,17,"MATERIAL_SHORTAGE",76650,0,76650,"Shipped",266000
+"SO-4500176",10,"Intel Fab","MAT-1001","KLA 8935 Wafer Inspection System","1000","SP02",2,1296000,"2025-01-21","2025-01-21",true,true,0,"\N",0,0,0,"Shipped",337500
+"SO-4500177",10,"TSMC","MAT-1006","Candela CS920 Surface Analyzer","3000","SP04",1,264000,"2025-06-26","2025-06-26",true,true,0,"\N",0,0,0,"Shipped",137500
+"SO-4500178",10,"TSMC","MAT-1007","Puma 9980 Laser Scanning","1000","SP01",1,338000,"2025-04-25","2025-05-11",false,true,16,"MATERIAL_SHORTAGE",16900,0,16900,"Shipped",175800
+"SO-4500179",10,"Infineon Technologies","MAT-1007","Puma 9980 Laser Scanning","1000","SP01",3,1014000,"2025-01-30","2025-01-30",true,true,0,"\N",0,0,0,"Shipped",175800
+"SO-4500180",10,"GlobalFoundries","MAT-1002","KLA eSL10 e-Beam Review","3000","SP04",2,1022000,"2025-03-26","2025-04-02",false,true,7,"MATERIAL_SHORTAGE",35770,8500,44270,"Shipped",266000
+"SO-4500181",10,"Samsung Semiconductor","MAT-1006","Candela CS920 Surface Analyzer","3000","SP04",1,264000,"2025-08-10","2025-08-10",true,true,0,"\N",0,0,0,"Shipped",137500
+"SO-4500182",10,"GlobalFoundries","MAT-1003","Surfscan SP7XP","4000","SP05",2,840000,"2025-06-20","2025-06-20",true,true,0,"\N",0,0,0,"Shipped",218800
+"SO-4500183",10,"SK Hynix","MAT-1006","Candela CS920 Surface Analyzer","1000","SP01",2,528000,"2025-07-13","2025-07-17",false,true,4,"PERFORMANCE",10560,14000,24560,"Shipped",137500
+"SO-4500184",10,"Intel Fab","MAT-1008","Kronos 1190 WI Patterned Inspection","1000","SP02",2,860000,"2025-09-11","2025-09-11",true,true,0,"\N",0,0,0,"Shipped",224200
+"SO-4500185",10,"TSMC","MAT-1007","Puma 9980 Laser Scanning","1000","SP01",1,338000,"2025-07-03","2025-07-03",true,true,0,"\N",0,0,0,"Shipped",175800
+"SO-4500186",10,"Micron Technology","MAT-1008","Kronos 1190 WI Patterned Inspection","1000","SP02",2,860000,"2025-01-14","2025-01-14",true,true,0,"\N",0,0,0,"Shipped",224200
+"SO-4500187",10,"TSMC","MAT-1002","KLA eSL10 e-Beam Review","2000","SP03",3,1533000,"2025-08-20","2025-08-20",true,true,0,"\N",0,0,0,"Shipped",266000
+"SO-4500188",10,"TSMC","MAT-1004","ICOS F160 Die Sorter","1000","SP01",1,482000,"2025-04-22","2025-04-22",true,true,0,"\N",0,0,0,"Shipped",250900
+"SO-4500189",10,"SK Hynix","MAT-1001","KLA 8935 Wafer Inspection System","2000","SP03",3,1944000,"2025-06-19","2025-06-22",false,false,3,"LOGISTICS",29160,8500,37660,"Shipped",337500
+"SO-4500190",10,"TSMC","MAT-1007","Puma 9980 Laser Scanning","1000","SP02",1,338000,"2025-09-28","2025-09-28",true,true,0,"\N",0,0,0,"Shipped",175800
+"SO-4500191",10,"GlobalFoundries","MAT-1004","ICOS F160 Die Sorter","5000","SP06",1,482000,"2025-06-01","2025-06-01",true,true,0,"\N",0,0,0,"Shipped",250900
+"SO-4500192",10,"Samsung Semiconductor","MAT-1001","KLA 8935 Wafer Inspection System","2000","SP03",2,1296000,"2025-05-06","2025-05-06",true,true,0,"\N",0,0,0,"Shipped",337500
+"SO-4500193",10,"Texas Instruments","MAT-1002","KLA eSL10 e-Beam Review","2000","SP03",2,1022000,"2025-05-21","2025-05-21",true,true,0,"\N",0,0,0,"Shipped",266000
+"SO-4500194",10,"Micron Technology","MAT-1006","Candela CS920 Surface Analyzer","3000","SP04",1,264000,"2025-06-19","2025-06-19",true,true,0,"\N",0,0,0,"Shipped",137500
+"SO-4500195",10,"SK Hynix","MAT-1005","Archer 750 Overlay Metrology","2000","SP03",2,566000,"2025-09-29","2025-09-29",true,true,0,"\N",0,0,0,"Shipped",147300
+"SO-4500196",10,"SK Hynix","MAT-1007","Puma 9980 Laser Scanning","1000","SP01",1,338000,"2025-03-18","2025-03-18",true,true,0,"\N",0,0,0,"Shipped",175800
+"SO-4500197",10,"Micron Technology","MAT-1006","Candela CS920 Surface Analyzer","3000","SP04",1,264000,"2025-03-13","2025-03-13",true,true,0,"\N",0,0,0,"Shipped",137500
+"SO-4500198",10,"SK Hynix","MAT-1004","ICOS F160 Die Sorter","5000","SP06",1,482000,"2025-08-28","2025-08-28",true,true,0,"\N",0,0,0,"Shipped",250900
+"SO-4500199",10,"TSMC","MAT-1007","Puma 9980 Laser Scanning","1000","SP02",1,338000,"2025-07-08","2025-07-08",true,true,0,"\N",0,0,0,"Shipped",175800
+"SO-4500200",10,"TSMC","MAT-1002","KLA eSL10 e-Beam Review","3000","SP04",1,511000,"2025-06-10","2025-06-10",true,true,0,"\N",0,0,0,"Shipped",266000
+"SO-4500201",10,"SK Hynix","MAT-1002","KLA eSL10 e-Beam Review","2000","SP03",1,511000,"2025-01-22","2025-01-24",false,false,2,"LOGISTICS",5110,14000,19110,"Shipped",266000
+"SO-4500202",10,"SK Hynix","MAT-1002","KLA eSL10 e-Beam Review","3000","SP04",1,511000,"2025-01-21","2025-01-21",true,true,0,"\N",0,0,0,"Shipped",266000
+"SO-4500203",10,"Micron Technology","MAT-1002","KLA eSL10 e-Beam Review","3000","SP04",2,1022000,"2025-09-21","2025-09-21",true,true,0,"\N",0,0,0,"Shipped",266000
+"SO-4500204",10,"Texas Instruments","MAT-1003","Surfscan SP7XP","1000","SP01",2,840000,"2025-04-14","2025-04-14",true,true,0,"\N",0,0,0,"Shipped",218800
+"SO-4500205",10,"GlobalFoundries","MAT-1005","Archer 750 Overlay Metrology","2000","SP03",2,566000,"2025-05-03","2025-05-03",true,true,0,"\N",0,0,0,"Shipped",147300
+"SO-4500206",10,"Samsung Semiconductor","MAT-1002","KLA eSL10 e-Beam Review","1000","SP02",1,511000,"2025-07-06","2025-07-22",false,false,16,"MATERIAL_SHORTAGE",25550,22000,47550,"Shipped",266000
+"SO-4500207",10,"Texas Instruments","MAT-1001","KLA 8935 Wafer Inspection System","4000","SP05",3,1944000,"2025-04-23","2025-04-23",true,true,0,"\N",0,0,0,"Shipped",337500
+"SO-4500208",10,"TSMC","MAT-1008","Kronos 1190 WI Patterned Inspection","1000","SP02",1,430000,"2025-04-15","2025-04-22",false,false,7,"EQUIPMENT",15050,8500,23550,"Shipped",224200
+"SO-4500209",10,"GlobalFoundries","MAT-1003","Surfscan SP7XP","4000","SP05",2,840000,"2025-05-01","2025-05-01",true,true,0,"\N",0,0,0,"Shipped",218800
+"SO-4500210",10,"Texas Instruments","MAT-1001","KLA 8935 Wafer Inspection System","1000","SP02",1,648000,"2025-07-15","2025-07-22",false,true,7,"MATERIAL_SHORTAGE",22680,22000,44680,"Shipped",337500
+"SO-4500211",10,"SK Hynix","MAT-1002","KLA eSL10 e-Beam Review","1000","SP01",1,511000,"2025-09-23","2025-09-23",true,true,0,"\N",0,0,0,"Shipped",266000
+"SO-4500212",10,"Infineon Technologies","MAT-1007","Puma 9980 Laser Scanning","1000","SP02",3,1014000,"2025-07-19","2025-07-24",false,true,5,"MATERIAL_SHORTAGE",25350,0,25350,"Shipped",175800
+"SO-4500213",10,"GlobalFoundries","MAT-1008","Kronos 1190 WI Patterned Inspection","1000","SP01",1,430000,"2025-03-06","2025-03-11",false,false,5,"PERFORMANCE",10750,8500,19250,"Shipped",224200
+"SO-4500214",10,"Intel Fab","MAT-1006","Candela CS920 Surface Analyzer","3000","SP04",1,264000,"2025-02-07","2025-02-07",true,true,0,"\N",0,0,0,"Shipped",137500
+"SO-4500215",10,"TSMC","MAT-1006","Candela CS920 Surface Analyzer","3000","SP04",2,528000,"2025-03-23","2025-03-23",true,true,0,"\N",0,0,0,"Shipped",137500
+"SO-4500216",10,"Micron Technology","MAT-1004","ICOS F160 Die Sorter","1000","SP01",2,964000,"2025-06-18","2025-06-18",true,true,0,"\N",0,0,0,"Shipped",250900
+"SO-4500217",10,"Micron Technology","MAT-1003","Surfscan SP7XP","5000","SP06",3,1260000,"2025-06-21","2025-06-21",true,true,0,"\N",0,0,0,"Shipped",218800
+"SO-4500218",10,"TSMC","MAT-1001","KLA 8935 Wafer Inspection System","2000","SP03",2,1296000,"2025-08-04","2025-08-04",true,true,0,"\N",0,0,0,"Shipped",337500
+"SO-4500219",10,"Samsung Semiconductor","MAT-1007","Puma 9980 Laser Scanning","1000","SP01",1,338000,"2025-09-05","2025-09-05",true,true,0,"\N",0,0,0,"Shipped",175800
+"SO-4500220",10,"Texas Instruments","MAT-1007","Puma 9980 Laser Scanning","1000","SP01",3,1014000,"2025-05-28","2025-06-07",false,true,10,"QUALITY_HOLD",50700,8500,59200,"Shipped",175800
+"SO-4500221",10,"Samsung Semiconductor","MAT-1005","Archer 750 Overlay Metrology","3000","SP04",3,849000,"2025-04-21","2025-04-21",true,true,0,"\N",0,0,0,"Shipped",147300
+"SO-4500222",10,"Micron Technology","MAT-1007","Puma 9980 Laser Scanning","1000","SP01",2,676000,"2025-09-17","2025-09-17",true,true,0,"\N",0,0,0,"Shipped",175800
+"SO-4500223",10,"Texas Instruments","MAT-1001","KLA 8935 Wafer Inspection System","4000","SP05",1,648000,"2025-09-02","2025-09-02",true,true,0,"\N",0,0,0,"Shipped",337500
+"SO-4500224",10,"Intel Fab","MAT-1003","Surfscan SP7XP","5000","SP06",1,420000,"2025-06-06","2025-06-06",true,true,0,"\N",0,0,0,"Shipped",218800
+"SO-4500225",10,"GlobalFoundries","MAT-1005","Archer 750 Overlay Metrology","2000","SP03",1,283000,"2025-02-06","2025-02-06",true,true,0,"\N",0,0,0,"Shipped",147300
+"SO-4500226",10,"Infineon Technologies","MAT-1004","ICOS F160 Die Sorter","5000","SP06",2,964000,"2025-09-29","\N",false,true,6,"PERFORMANCE",28920,14000,42920,"Open - at risk",250900
+"SO-4500227",10,"TSMC","MAT-1006","Candela CS920 Surface Analyzer","3000","SP04",2,528000,"2025-03-28","2025-04-02",false,false,5,"PERFORMANCE",13200,14000,27200,"Shipped",137500
+"SO-4500228",10,"Micron Technology","MAT-1002","KLA eSL10 e-Beam Review","3000","SP04",1,511000,"2025-01-20","2025-01-20",true,true,0,"\N",0,0,0,"Shipped",266000
+"SO-4500229",10,"Micron Technology","MAT-1005","Archer 750 Overlay Metrology","2000","SP03",3,849000,"2025-07-21","2025-07-21",true,true,0,"\N",0,0,0,"Shipped",147300
+"SO-4500230",10,"GlobalFoundries","MAT-1002","KLA eSL10 e-Beam Review","1000","SP02",3,1533000,"2025-07-21","2025-08-02",false,false,12,"MATERIAL_SHORTAGE",76650,8500,85150,"Shipped",266000
+"SO-4500231",10,"Infineon Technologies","MAT-1008","Kronos 1190 WI Patterned Inspection","1000","SP01",1,430000,"2025-08-14","2025-08-30",false,false,16,"MATERIAL_SHORTAGE",21500,22000,43500,"Shipped",224200
+"SO-4500232",10,"Infineon Technologies","MAT-1004","ICOS F160 Die Sorter","1000","SP01",1,482000,"2025-04-18","2025-04-18",true,true,0,"\N",0,0,0,"Shipped",250900
+"SO-4500233",10,"Infineon Technologies","MAT-1003","Surfscan SP7XP","5000","SP06",2,840000,"2025-02-12","2025-02-12",true,true,0,"\N",0,0,0,"Shipped",218800
+"SO-4500234",10,"GlobalFoundries","MAT-1005","Archer 750 Overlay Metrology","3000","SP04",1,283000,"2025-09-02","2025-09-05",false,true,3,"PERFORMANCE",4245,0,4245,"Shipped",147300
+"SO-4500235",10,"Intel Fab","MAT-1003","Surfscan SP7XP","5000","SP06",2,840000,"2025-09-16","2025-09-27",false,false,11,"MATERIAL_SHORTAGE",42000,8500,50500,"Shipped",218800
+"SO-4500236",10,"Infineon Technologies","MAT-1001","KLA 8935 Wafer Inspection System","2000","SP03",1,648000,"2025-03-23","2025-03-23",true,true,0,"\N",0,0,0,"Shipped",337500
+"SO-4500237",10,"GlobalFoundries","MAT-1006","Candela CS920 Surface Analyzer","3000","SP04",1,264000,"2025-05-11","2025-05-11",true,true,0,"\N",0,0,0,"Shipped",137500
+"SO-4500238",10,"Micron Technology","MAT-1003","Surfscan SP7XP","1000","SP01",1,420000,"2025-09-14","2025-09-14",true,true,0,"\N",0,0,0,"Shipped",218800
+"SO-4500239",10,"SK Hynix","MAT-1008","Kronos 1190 WI Patterned Inspection","1000","SP02",1,430000,"2025-01-30","2025-02-11",false,true,12,"MATERIAL_SHORTAGE",21500,8500,30000,"Shipped",224200
+"SO-4500240",10,"Samsung Semiconductor","MAT-1005","Archer 750 Overlay Metrology","3000","SP04",1,283000,"2025-07-22","2025-07-22",true,true,0,"\N",0,0,0,"Shipped",147300
+"SO-4500241",10,"TSMC","MAT-1006","Candela CS920 Surface Analyzer","3000","SP04",3,792000,"2025-05-04","2025-05-17",false,true,13,"EQUIPMENT",39600,14000,53600,"Shipped",137500
+"SO-4500242",10,"SK Hynix","MAT-1005","Archer 750 Overlay Metrology","2000","SP03",1,283000,"2025-04-24","2025-04-29",false,false,5,"QUALITY_HOLD",7075,22000,29075,"Shipped",147300
+"SO-4500243",10,"SK Hynix","MAT-1003","Surfscan SP7XP","4000","SP05",2,840000,"2025-04-06","2025-04-06",true,true,0,"\N",0,0,0,"Shipped",218800
+"SO-4500244",10,"Intel Fab","MAT-1002","KLA eSL10 e-Beam Review","2000","SP03",1,511000,"2025-09-25","2025-09-29",false,true,4,"PERFORMANCE",10220,8500,18720,"Shipped",266000
+"SO-4500245",10,"Texas Instruments","MAT-1004","ICOS F160 Die Sorter","1000","SP01",2,964000,"2025-03-25","2025-03-25",true,true,0,"\N",0,0,0,"Shipped",250900
+"SO-4500246",10,"Intel Fab","MAT-1001","KLA 8935 Wafer Inspection System","4000","SP05",1,648000,"2025-03-11","2025-03-11",true,true,0,"\N",0,0,0,"Shipped",337500
+"SO-4500247",10,"TSMC","MAT-1006","Candela CS920 Surface Analyzer","1000","SP02",2,528000,"2025-08-09","2025-08-09",true,true,0,"\N",0,0,0,"Shipped",137500
+"SO-4500248",10,"SK Hynix","MAT-1006","Candela CS920 Surface Analyzer","1000","SP02",2,528000,"2025-04-16","2025-04-27",false,true,11,"EQUIPMENT",26400,0,26400,"Shipped",137500
+"SO-4500249",10,"TSMC","MAT-1005","Archer 750 Overlay Metrology","3000","SP04",3,849000,"2025-06-18","2025-06-18",true,true,0,"\N",0,0,0,"Shipped",147300
+"SO-4500250",10,"Texas Instruments","MAT-1005","Archer 750 Overlay Metrology","3000","SP04",1,283000,"2025-05-16","2025-05-16",true,true,0,"\N",0,0,0,"Shipped",147300
+"SO-4500251",10,"Micron Technology","MAT-1004","ICOS F160 Die Sorter","1000","SP02",1,482000,"2025-03-04","2025-03-15",false,false,11,"EQUIPMENT",24100,8500,32600,"Shipped",250900
+"SO-4500252",10,"Intel Fab","MAT-1004","ICOS F160 Die Sorter","5000","SP06",1,482000,"2025-07-04","2025-07-04",true,true,0,"\N",0,0,0,"Shipped",250900
+"SO-4500253",10,"Infineon Technologies","MAT-1008","Kronos 1190 WI Patterned Inspection","1000","SP02",1,430000,"2025-08-04","2025-08-13",false,false,9,"MATERIAL_SHORTAGE",19350,14000,33350,"Shipped",224200
+"SO-4500254",10,"Intel Fab","MAT-1003","Surfscan SP7XP","1000","SP02",1,420000,"2025-09-19","2025-09-19",true,true,0,"\N",0,0,0,"Shipped",218800
+"SO-4500255",10,"SK Hynix","MAT-1007","Puma 9980 Laser Scanning","1000","SP02",3,1014000,"2025-04-05","2025-04-10",false,true,5,"PERFORMANCE",25350,22000,47350,"Shipped",175800
+"SO-4500256",10,"Samsung Semiconductor","MAT-1003","Surfscan SP7XP","5000","SP06",1,420000,"2025-06-22","2025-06-22",true,true,0,"\N",0,0,0,"Shipped",218800
+"SO-4500257",10,"Infineon Technologies","MAT-1007","Puma 9980 Laser Scanning","1000","SP02",1,338000,"2025-04-15","2025-05-04",false,false,19,"MATERIAL_SHORTAGE",16900,8500,25400,"Shipped",175800
+"SO-4500258",10,"Samsung Semiconductor","MAT-1005","Archer 750 Overlay Metrology","2000","SP03",1,283000,"2025-03-31","2025-04-10",false,false,10,"EQUIPMENT",14150,14000,28150,"Shipped",147300
+"SO-4500259",10,"TSMC","MAT-1004","ICOS F160 Die Sorter","1000","SP01",1,482000,"2025-09-14","2025-09-14",true,true,0,"\N",0,0,0,"Shipped",250900
+"SO-4500260",10,"Samsung Semiconductor","MAT-1002","KLA eSL10 e-Beam Review","3000","SP04",2,1022000,"2025-07-31","2025-08-05",false,false,5,"PERFORMANCE",25550,14000,39550,"Shipped",266000
+"SO-4500261",10,"Texas Instruments","MAT-1008","Kronos 1190 WI Patterned Inspection","1000","SP01",1,430000,"2025-04-28","2025-05-07",false,false,9,"MATERIAL_SHORTAGE",19350,0,19350,"Shipped",224200
+"SO-4500262",10,"Micron Technology","MAT-1001","KLA 8935 Wafer Inspection System","1000","SP01",1,648000,"2025-06-05","2025-06-05",true,true,0,"\N",0,0,0,"Shipped",337500
+"SO-4500263",10,"Texas Instruments","MAT-1001","KLA 8935 Wafer Inspection System","1000","SP01",1,648000,"2025-08-03","2025-08-03",true,true,0,"\N",0,0,0,"Shipped",337500
+"SO-4500264",10,"Infineon Technologies","MAT-1002","KLA eSL10 e-Beam Review","1000","SP02",1,511000,"2025-08-29","2025-09-07",false,false,9,"EQUIPMENT",22995,0,22995,"Shipped",266000
+"SO-4500265",10,"Texas Instruments","MAT-1008","Kronos 1190 WI Patterned Inspection","1000","SP01",1,430000,"2025-05-26","2025-05-26",true,true,0,"\N",0,0,0,"Shipped",224200
+"SO-4500266",10,"Intel Fab","MAT-1006","Candela CS920 Surface Analyzer","1000","SP02",1,264000,"2025-07-02","2025-07-14",false,true,12,"QUALITY_HOLD",13200,0,13200,"Shipped",137500
+"SO-4500267",10,"Samsung Semiconductor","MAT-1003","Surfscan SP7XP","4000","SP05",1,420000,"2025-09-29","2025-09-29",true,true,0,"\N",0,0,0,"Shipped",218800
+"SO-4500268",10,"Infineon Technologies","MAT-1001","KLA 8935 Wafer Inspection System","2000","SP03",2,1296000,"2025-02-21","2025-02-21",true,true,0,"\N",0,0,0,"Shipped",337500
+"SO-4500269",10,"Infineon Technologies","MAT-1002","KLA eSL10 e-Beam Review","1000","SP02",2,1022000,"2025-01-22","2025-02-05",false,true,14,"MATERIAL_SHORTAGE",51100,14000,65100,"Shipped",266000
+"SO-4500270",10,"Infineon Technologies","MAT-1005","Archer 750 Overlay Metrology","2000","SP03",1,283000,"2025-07-04","2025-07-04",true,true,0,"\N",0,0,0,"Shipped",147300
+"SO-4500271",10,"Intel Fab","MAT-1004","ICOS F160 Die Sorter","1000","SP01",2,964000,"2025-05-22","2025-05-22",true,true,0,"\N",0,0,0,"Shipped",250900
+"SO-4500272",10,"Micron Technology","MAT-1001","KLA 8935 Wafer Inspection System","4000","SP05",1,648000,"2025-04-30","2025-04-30",true,true,0,"\N",0,0,0,"Shipped",337500
+"SO-4500273",10,"SK Hynix","MAT-1005","Archer 750 Overlay Metrology","3000","SP04",2,566000,"2025-08-06","2025-08-06",true,true,0,"\N",0,0,0,"Shipped",147300
+"SO-4500274",10,"TSMC","MAT-1002","KLA eSL10 e-Beam Review","2000","SP03",1,511000,"2025-03-03","2025-03-03",true,true,0,"\N",0,0,0,"Shipped",266000
+"SO-4500275",10,"Infineon Technologies","MAT-1005","Archer 750 Overlay Metrology","3000","SP04",2,566000,"2025-08-26","2025-08-26",true,true,0,"\N",0,0,0,"Shipped",147300
+"SO-4500276",10,"GlobalFoundries","MAT-1006","Candela CS920 Surface Analyzer","1000","SP02",1,264000,"2025-08-04","2025-08-10",false,true,6,"MATERIAL_SHORTAGE",7920,8500,16420,"Shipped",137500
+"SO-4500277",10,"SK Hynix","MAT-1008","Kronos 1190 WI Patterned Inspection","1000","SP02",3,1290000,"2025-05-29","2025-05-29",true,true,0,"\N",0,0,0,"Shipped",224200
+"SO-4500278",10,"SK Hynix","MAT-1008","Kronos 1190 WI Patterned Inspection","1000","SP02",2,860000,"2025-03-01","2025-03-13",false,true,12,"EQUIPMENT",43000,14000,57000,"Shipped",224200
+"SO-4500279",10,"Samsung Semiconductor","MAT-1004","ICOS F160 Die Sorter","1000","SP01",2,964000,"2025-06-04","2025-06-04",true,true,0,"\N",0,0,0,"Shipped",250900
+"SO-4500280",10,"Texas Instruments","MAT-1004","ICOS F160 Die Sorter","5000","SP06",1,482000,"2025-02-09","2025-02-09",true,true,0,"\N",0,0,0,"Shipped",250900
+"SO-4500281",10,"Micron Technology","MAT-1004","ICOS F160 Die Sorter","5000","SP06",1,482000,"2025-08-07","2025-08-07",true,true,0,"\N",0,0,0,"Shipped",250900
+"SO-4500282",10,"SK Hynix","MAT-1004","ICOS F160 Die Sorter","1000","SP01",1,482000,"2025-05-26","2025-06-05",false,true,10,"EQUIPMENT",24100,0,24100,"Shipped",250900
+"SO-4500283",10,"SK Hynix","MAT-1008","Kronos 1190 WI Patterned Inspection","1000","SP02",2,860000,"2025-08-18","2025-08-18",true,true,0,"\N",0,0,0,"Shipped",224200
+"SO-4500284",10,"Infineon Technologies","MAT-1008","Kronos 1190 WI Patterned Inspection","1000","SP02",1,430000,"2025-01-14","2025-01-14",true,true,0,"\N",0,0,0,"Shipped",224200
+"SO-4500285",10,"SK Hynix","MAT-1003","Surfscan SP7XP","1000","SP01",1,420000,"2025-01-24","2025-02-06",false,false,13,"MATERIAL_SHORTAGE",21000,14000,35000,"Shipped",218800
+"SO-4500286",10,"SK Hynix","MAT-1002","KLA eSL10 e-Beam Review","1000","SP02",1,511000,"2025-04-27","2025-05-10",false,false,13,"MATERIAL_SHORTAGE",25550,14000,39550,"Shipped",266000
+"SO-4500287",10,"Intel Fab","MAT-1001","KLA 8935 Wafer Inspection System","2000","SP03",2,1296000,"2025-07-31","2025-07-31",true,true,0,"\N",0,0,0,"Shipped",337500
+"SO-4500288",10,"Texas Instruments","MAT-1008","Kronos 1190 WI Patterned Inspection","1000","SP02",2,860000,"2025-03-01","2025-03-17",false,false,16,"MATERIAL_SHORTAGE",43000,0,43000,"Shipped",224200
+"SO-4500289",10,"TSMC","MAT-1002","KLA eSL10 e-Beam Review","1000","SP02",1,511000,"2025-08-02","2025-08-10",false,true,8,"QUALITY_HOLD",20440,0,20440,"Shipped",266000
+"SO-4500290",10,"TSMC","MAT-1006","Candela CS920 Surface Analyzer","3000","SP04",1,264000,"2025-07-01","2025-07-01",true,true,0,"\N",0,0,0,"Shipped",137500
+"SO-4500291",10,"Intel Fab","MAT-1003","Surfscan SP7XP","1000","SP01",1,420000,"2025-07-16","2025-07-26",false,true,10,"QUALITY_HOLD",21000,0,21000,"Shipped",218800
+"SO-4500292",10,"SK Hynix","MAT-1001","KLA 8935 Wafer Inspection System","2000","SP03",1,648000,"2025-09-16","2025-09-30",false,true,14,"MATERIAL_SHORTAGE",32400,8500,40900,"Shipped",337500
+"SO-4500293",10,"Infineon Technologies","MAT-1007","Puma 9980 Laser Scanning","1000","SP02",1,338000,"2025-01-15","2025-01-31",false,false,16,"MATERIAL_SHORTAGE",16900,8500,25400,"Shipped",175800
+"SO-4500294",10,"SK Hynix","MAT-1002","KLA eSL10 e-Beam Review","1000","SP02",2,1022000,"2025-07-09","2025-07-09",true,true,0,"\N",0,0,0,"Shipped",266000
+"SO-4500295",10,"GlobalFoundries","MAT-1003","Surfscan SP7XP","1000","SP02",1,420000,"2025-01-18","2025-02-05",false,true,18,"MATERIAL_SHORTAGE",21000,0,21000,"Shipped",218800
+"SO-4500296",10,"Intel Fab","MAT-1007","Puma 9980 Laser Scanning","1000","SP02",1,338000,"2025-03-02","2025-03-02",true,true,0,"\N",0,0,0,"Shipped",175800
+"SO-4500297",10,"SK Hynix","MAT-1007","Puma 9980 Laser Scanning","1000","SP01",1,338000,"2025-02-22","2025-02-22",true,true,0,"\N",0,0,0,"Shipped",175800
+"SO-4500298",10,"Samsung Semiconductor","MAT-1006","Candela CS920 Surface Analyzer","1000","SP02",3,792000,"2025-07-16","2025-07-16",true,true,0,"\N",0,0,0,"Shipped",137500
+"SO-4500299",10,"GlobalFoundries","MAT-1007","Puma 9980 Laser Scanning","1000","SP01",1,338000,"2025-06-21","2025-06-21",true,true,0,"\N",0,0,0,"Shipped",175800
+"SO-4500300",10,"Infineon Technologies","MAT-1001","KLA 8935 Wafer Inspection System","2000","SP03",2,1296000,"2025-04-14","2025-04-19",false,true,5,"PERFORMANCE",32400,14000,46400,"Shipped",337500
+"SO-4500301",10,"Intel Fab","MAT-1006","Candela CS920 Surface Analyzer","3000","SP04",1,264000,"2025-03-26","2025-03-26",true,true,0,"\N",0,0,0,"Shipped",137500
+"SO-4500302",10,"Intel Fab","MAT-1002","KLA eSL10 e-Beam Review","2000","SP03",1,511000,"2025-04-26","2025-04-26",true,true,0,"\N",0,0,0,"Shipped",266000
+"SO-4500303",10,"GlobalFoundries","MAT-1001","KLA 8935 Wafer Inspection System","4000","SP05",2,1296000,"2025-07-11","2025-07-11",true,true,0,"\N",0,0,0,"Shipped",337500
+"SO-4500304",10,"Texas Instruments","MAT-1005","Archer 750 Overlay Metrology","3000","SP04",2,566000,"2025-04-13","2025-04-13",true,true,0,"\N",0,0,0,"Shipped",147300
+"SO-4500305",10,"Intel Fab","MAT-1001","KLA 8935 Wafer Inspection System","4000","SP05",2,1296000,"2025-01-16","2025-01-16",true,true,0,"\N",0,0,0,"Shipped",337500
+"SO-4500306",10,"Samsung Semiconductor","MAT-1003","Surfscan SP7XP","1000","SP02",2,840000,"2025-05-13","2025-05-20",false,false,7,"QUALITY_HOLD",29400,0,29400,"Shipped",218800
+"SO-4500307",10,"GlobalFoundries","MAT-1008","Kronos 1190 WI Patterned Inspection","1000","SP02",2,860000,"2025-09-29","2025-09-29",true,true,0,"\N",0,0,0,"Shipped",224200
+"SO-4500308",10,"Samsung Semiconductor","MAT-1008","Kronos 1190 WI Patterned Inspection","1000","SP01",2,860000,"2025-03-02","2025-03-05",false,true,3,"MATERIAL_SHORTAGE",12900,14000,26900,"Shipped",224200
+"SO-4500309",10,"Texas Instruments","MAT-1001","KLA 8935 Wafer Inspection System","2000","SP03",3,1944000,"2025-05-19","2025-05-19",true,true,0,"\N",0,0,0,"Shipped",337500
+"SO-4500310",10,"Intel Fab","MAT-1008","Kronos 1190 WI Patterned Inspection","1000","SP01",3,1290000,"2025-08-11","2025-08-29",false,false,18,"MATERIAL_SHORTAGE",64500,0,64500,"Shipped",224200
+"SO-4500311",10,"Intel Fab","MAT-1007","Puma 9980 Laser Scanning","1000","SP01",1,338000,"2025-09-28","\N",false,true,8,"MATERIAL_SHORTAGE",13520,22000,35520,"Open - at risk",175800
+"SO-4500312",10,"Infineon Technologies","MAT-1003","Surfscan SP7XP","1000","SP02",2,840000,"2025-04-09","2025-04-09",true,true,0,"\N",0,0,0,"Shipped",218800
+"SO-4500313",10,"GlobalFoundries","MAT-1002","KLA eSL10 e-Beam Review","3000","SP04",1,511000,"2025-05-21","2025-05-21",true,true,0,"\N",0,0,0,"Shipped",266000
+"SO-4500314",10,"Micron Technology","MAT-1002","KLA eSL10 e-Beam Review","1000","SP02",2,1022000,"2025-01-21","2025-02-08",false,true,18,"QUALITY_HOLD",51100,14000,65100,"Shipped",266000
+"SO-4500315",10,"GlobalFoundries","MAT-1001","KLA 8935 Wafer Inspection System","2000","SP03",1,648000,"2025-04-18","2025-05-04",false,true,16,"MATERIAL_SHORTAGE",32400,22000,54400,"Shipped",337500
+"SO-4500316",10,"Texas Instruments","MAT-1003","Surfscan SP7XP","4000","SP05",1,420000,"2025-03-18","2025-03-18",true,true,0,"\N",0,0,0,"Shipped",218800
+"SO-4500317",10,"Texas Instruments","MAT-1005","Archer 750 Overlay Metrology","3000","SP04",2,566000,"2025-08-22","2025-08-22",true,true,0,"\N",0,0,0,"Shipped",147300
+"SO-4500318",10,"Samsung Semiconductor","MAT-1008","Kronos 1190 WI Patterned Inspection","1000","SP02",1,430000,"2025-08-18","2025-08-22",false,true,4,"EQUIPMENT",8600,0,8600,"Shipped",224200
+"SO-4500319",10,"Texas Instruments","MAT-1002","KLA eSL10 e-Beam Review","3000","SP04",1,511000,"2025-09-20","2025-09-20",true,true,0,"\N",0,0,0,"Shipped",266000
+"SO-4500320",10,"GlobalFoundries","MAT-1001","KLA 8935 Wafer Inspection System","1000","SP01",1,648000,"2025-03-13","2025-04-01",false,true,19,"EQUIPMENT",32400,22000,54400,"Shipped",337500
+"SO-4500321",10,"SK Hynix","MAT-1005","Archer 750 Overlay Metrology","3000","SP04",2,566000,"2025-06-26","2025-06-26",true,true,0,"\N",0,0,0,"Shipped",147300
+"SO-4500322",10,"TSMC","MAT-1002","KLA eSL10 e-Beam Review","3000","SP04",1,511000,"2025-02-01","2025-02-01",true,true,0,"\N",0,0,0,"Shipped",266000
+"SO-4500323",10,"GlobalFoundries","MAT-1001","KLA 8935 Wafer Inspection System","1000","SP01",3,1944000,"2025-07-05","2025-07-12",false,true,7,"MATERIAL_SHORTAGE",68040,14000,82040,"Shipped",337500
+"SO-4500324",10,"Infineon Technologies","MAT-1002","KLA eSL10 e-Beam Review","2000","SP03",1,511000,"2025-08-07","2025-08-09",false,true,2,"PERFORMANCE",5110,22000,27110,"Shipped",266000
+"SO-4500325",10,"Intel Fab","MAT-1001","KLA 8935 Wafer Inspection System","2000","SP03",2,1296000,"2025-05-15","2025-05-15",true,true,0,"\N",0,0,0,"Shipped",337500
+"SO-4500326",10,"Texas Instruments","MAT-1003","Surfscan SP7XP","1000","SP02",1,420000,"2025-04-13","2025-04-24",false,true,11,"MATERIAL_SHORTAGE",21000,8500,29500,"Shipped",218800
+"SO-4500327",10,"TSMC","MAT-1002","KLA eSL10 e-Beam Review","2000","SP03",1,511000,"2025-09-08","2025-09-08",true,true,0,"\N",0,0,0,"Shipped",266000
+"SO-4500328",10,"Micron Technology","MAT-1002","KLA eSL10 e-Beam Review","1000","SP02",3,1533000,"2025-04-10","2025-04-27",false,true,17,"MATERIAL_SHORTAGE",76650,14000,90650,"Shipped",266000
+"SO-4500329",10,"SK Hynix","MAT-1005","Archer 750 Overlay Metrology","2000","SP03",2,566000,"2025-08-20","2025-08-20",true,true,0,"\N",0,0,0,"Shipped",147300
+"SO-4500330",10,"Intel Fab","MAT-1006","Candela CS920 Surface Analyzer","1000","SP02",1,264000,"2025-06-24","2025-07-05",false,false,11,"MATERIAL_SHORTAGE",13200,14000,27200,"Shipped",137500
+"SO-4500331",10,"Texas Instruments","MAT-1004","ICOS F160 Die Sorter","1000","SP01",2,964000,"2025-05-16","2025-05-29",false,true,13,"MATERIAL_SHORTAGE",48200,0,48200,"Shipped",250900
+"SO-4500332",10,"Micron Technology","MAT-1002","KLA eSL10 e-Beam Review","2000","SP03",2,1022000,"2025-01-16","2025-01-16",true,true,0,"\N",0,0,0,"Shipped",266000
+"SO-4500333",10,"Texas Instruments","MAT-1002","KLA eSL10 e-Beam Review","1000","SP01",1,511000,"2025-08-16","2025-08-28",false,true,12,"EQUIPMENT",25550,0,25550,"Shipped",266000
+"SO-4500334",10,"Samsung Semiconductor","MAT-1006","Candela CS920 Surface Analyzer","3000","SP04",1,264000,"2025-07-05","2025-07-05",true,true,0,"\N",0,0,0,"Shipped",137500
+"SO-4500335",10,"SK Hynix","MAT-1001","KLA 8935 Wafer Inspection System","4000","SP05",1,648000,"2025-02-06","2025-02-06",true,true,0,"\N",0,0,0,"Shipped",337500
+"SO-4500336",10,"SK Hynix","MAT-1005","Archer 750 Overlay Metrology","3000","SP04",3,849000,"2025-05-19","2025-05-19",true,true,0,"\N",0,0,0,"Shipped",147300
+"SO-4500337",10,"SK Hynix","MAT-1003","Surfscan SP7XP","4000","SP05",1,420000,"2025-02-11","2025-02-11",true,true,0,"\N",0,0,0,"Shipped",218800
+"SO-4500338",10,"Micron Technology","MAT-1005","Archer 750 Overlay Metrology","2000","SP03",2,566000,"2025-04-10","2025-04-10",true,true,0,"\N",0,0,0,"Shipped",147300
+"SO-4500339",10,"Intel Fab","MAT-1008","Kronos 1190 WI Patterned Inspection","1000","SP02",3,1290000,"2025-09-15","2025-09-15",true,true,0,"\N",0,0,0,"Shipped",224200
+"SO-4500340",10,"Micron Technology","MAT-1004","ICOS F160 Die Sorter","1000","SP02",3,1446000,"2025-09-26","2025-09-26",true,true,0,"\N",0,0,0,"Shipped",250900
+"SO-4500341",10,"Texas Instruments","MAT-1007","Puma 9980 Laser Scanning","1000","SP01",1,338000,"2025-07-05","2025-07-09",false,false,4,"MATERIAL_SHORTAGE",6760,0,6760,"Shipped",175800
+"SO-4500342",10,"Intel Fab","MAT-1006","Candela CS920 Surface Analyzer","3000","SP04",1,264000,"2025-09-22","2025-09-22",true,true,0,"\N",0,0,0,"Shipped",137500
+"SO-4500343",10,"Intel Fab","MAT-1003","Surfscan SP7XP","1000","SP01",1,420000,"2025-06-03","2025-06-03",true,true,0,"\N",0,0,0,"Shipped",218800
+"SO-4500344",10,"GlobalFoundries","MAT-1003","Surfscan SP7XP","4000","SP05",3,1260000,"2025-06-26","2025-06-26",true,true,0,"\N",0,0,0,"Shipped",218800
+"SO-4500345",10,"GlobalFoundries","MAT-1004","ICOS F160 Die Sorter","5000","SP06",2,964000,"2025-05-24","2025-06-03",false,true,10,"MATERIAL_SHORTAGE",48200,14000,62200,"Shipped",250900
+"SO-4500346",10,"SK Hynix","MAT-1002","KLA eSL10 e-Beam Review","3000","SP04",1,511000,"2025-03-13","2025-03-17",false,true,4,"PERFORMANCE",10220,0,10220,"Shipped",266000
+"SO-4500347",10,"Micron Technology","MAT-1006","Candela CS920 Surface Analyzer","1000","SP01",1,264000,"2025-07-16","2025-07-16",true,true,0,"\N",0,0,0,"Shipped",137500
+"SO-4500348",10,"Texas Instruments","MAT-1007","Puma 9980 Laser Scanning","1000","SP02",2,676000,"2025-04-01","2025-04-10",false,true,9,"MATERIAL_SHORTAGE",30420,0,30420,"Shipped",175800
+"SO-4500349",10,"Infineon Technologies","MAT-1005","Archer 750 Overlay Metrology","3000","SP04",2,566000,"2025-08-15","2025-08-15",true,true,0,"\N",0,0,0,"Shipped",147300
+"SO-4500350",10,"SK Hynix","MAT-1004","ICOS F160 Die Sorter","5000","SP06",1,482000,"2025-03-23","2025-03-23",true,true,0,"\N",0,0,0,"Shipped",250900
+"SO-4500351",10,"Intel Fab","MAT-1004","ICOS F160 Die Sorter","1000","SP01",1,482000,"2025-04-14","2025-04-14",true,true,0,"\N",0,0,0,"Shipped",250900
+"SO-4500352",10,"Intel Fab","MAT-1006","Candela CS920 Surface Analyzer","1000","SP02",2,528000,"2025-03-19","2025-03-19",true,true,0,"\N",0,0,0,"Shipped",137500
+"SO-4500353",10,"Intel Fab","MAT-1001","KLA 8935 Wafer Inspection System","4000","SP05",3,1944000,"2025-09-09","2025-09-09",true,true,0,"\N",0,0,0,"Shipped",337500
+"SO-4500354",10,"Texas Instruments","MAT-1003","Surfscan SP7XP","1000","SP02",2,840000,"2025-02-09","2025-02-20",false,true,11,"MATERIAL_SHORTAGE",42000,0,42000,"Shipped",218800
+"SO-4500355",10,"Infineon Technologies","MAT-1007","Puma 9980 Laser Scanning","1000","SP01",1,338000,"2025-04-06","2025-04-06",true,true,0,"\N",0,0,0,"Shipped",175800
+"SO-4500356",10,"SK Hynix","MAT-1006","Candela CS920 Surface Analyzer","3000","SP04",2,528000,"2025-07-13","2025-07-13",true,true,0,"\N",0,0,0,"Shipped",137500
+"SO-4500357",10,"Samsung Semiconductor","MAT-1001","KLA 8935 Wafer Inspection System","1000","SP01",1,648000,"2025-09-09","2025-09-09",true,true,0,"\N",0,0,0,"Shipped",337500
+"SO-4500358",10,"Micron Technology","MAT-1005","Archer 750 Overlay Metrology","2000","SP03",3,849000,"2025-02-18","2025-02-18",true,true,0,"\N",0,0,0,"Shipped",147300
+"SO-4500359",10,"Infineon Technologies","MAT-1003","Surfscan SP7XP","1000","SP01",2,840000,"2025-09-04","2025-09-12",false,true,8,"QUALITY_HOLD",33600,8500,42100,"Shipped",218800
+"SO-4500360",10,"Samsung Semiconductor","MAT-1001","KLA 8935 Wafer Inspection System","2000","SP03",3,1944000,"2025-05-08","2025-05-08",true,true,0,"\N",0,0,0,"Shipped",337500
+"SO-4500361",10,"Samsung Semiconductor","MAT-1002","KLA eSL10 e-Beam Review","2000","SP03",1,511000,"2025-04-20","2025-04-20",true,true,0,"\N",0,0,0,"Shipped",266000
+"SO-4500362",10,"Micron Technology","MAT-1007","Puma 9980 Laser Scanning","1000","SP02",2,676000,"2025-09-18","2025-09-18",true,true,0,"\N",0,0,0,"Shipped",175800
+"SO-4500363",10,"TSMC","MAT-1006","Candela CS920 Surface Analyzer","1000","SP01",1,264000,"2025-06-20","2025-06-20",true,true,0,"\N",0,0,0,"Shipped",137500
+"SO-4500364",10,"GlobalFoundries","MAT-1002","KLA eSL10 e-Beam Review","3000","SP04",2,1022000,"2025-08-20","2025-08-28",false,true,8,"QUALITY_HOLD",40880,14000,54880,"Shipped",266000
+"SO-4500365",10,"GlobalFoundries","MAT-1008","Kronos 1190 WI Patterned Inspection","1000","SP01",2,860000,"2025-02-08","2025-02-08",true,true,0,"\N",0,0,0,"Shipped",224200
+"SO-4500366",10,"GlobalFoundries","MAT-1001","KLA 8935 Wafer Inspection System","4000","SP05",1,648000,"2025-06-11","2025-06-11",true,true,0,"\N",0,0,0,"Shipped",337500
+"SO-4500367",10,"TSMC","MAT-1001","KLA 8935 Wafer Inspection System","2000","SP03",3,1944000,"2025-05-09","2025-05-09",true,true,0,"\N",0,0,0,"Shipped",337500
+"SO-4500368",10,"SK Hynix","MAT-1008","Kronos 1190 WI Patterned Inspection","1000","SP01",2,860000,"2025-07-01","2025-07-01",true,true,0,"\N",0,0,0,"Shipped",224200
+"SO-4500369",10,"GlobalFoundries","MAT-1007","Puma 9980 Laser Scanning","1000","SP01",2,676000,"2025-05-11","2025-05-11",true,true,0,"\N",0,0,0,"Shipped",175800
+"SO-4500370",10,"Texas Instruments","MAT-1006","Candela CS920 Surface Analyzer","1000","SP02",1,264000,"2025-05-14","2025-05-25",false,false,11,"MATERIAL_SHORTAGE",13200,22000,35200,"Shipped",137500
+"SO-4500371",10,"Texas Instruments","MAT-1008","Kronos 1190 WI Patterned Inspection","1000","SP02",2,860000,"2025-08-16","2025-08-16",true,true,0,"\N",0,0,0,"Shipped",224200
+"SO-4500372",10,"Texas Instruments","MAT-1003","Surfscan SP7XP","1000","SP02",2,840000,"2025-02-11","2025-02-11",true,true,0,"\N",0,0,0,"Shipped",218800
+"SO-4500373",10,"GlobalFoundries","MAT-1003","Surfscan SP7XP","5000","SP06",3,1260000,"2025-06-08","2025-06-08",true,true,0,"\N",0,0,0,"Shipped",218800
+"SO-4500374",10,"TSMC","MAT-1003","Surfscan SP7XP","1000","SP02",2,840000,"2025-09-03","2025-09-03",true,true,0,"\N",0,0,0,"Shipped",218800
+"SO-4500375",10,"GlobalFoundries","MAT-1004","ICOS F160 Die Sorter","5000","SP06",1,482000,"2025-03-03","2025-03-03",true,true,0,"\N",0,0,0,"Shipped",250900
+"SO-4500376",10,"Intel Fab","MAT-1003","Surfscan SP7XP","5000","SP06",2,840000,"2025-07-23","2025-07-23",true,true,0,"\N",0,0,0,"Shipped",218800
+"SO-4500377",10,"SK Hynix","MAT-1001","KLA 8935 Wafer Inspection System","2000","SP03",2,1296000,"2025-01-19","2025-01-19",true,true,0,"\N",0,0,0,"Shipped",337500
+"SO-4500378",10,"TSMC","MAT-1003","Surfscan SP7XP","4000","SP05",2,840000,"2025-06-27","2025-06-27",true,true,0,"\N",0,0,0,"Shipped",218800
+"SO-4500379",10,"Texas Instruments","MAT-1002","KLA eSL10 e-Beam Review","1000","SP01",2,1022000,"2025-09-02","2025-09-02",true,true,0,"\N",0,0,0,"Shipped",266000
+"SO-4500380",10,"Samsung Semiconductor","MAT-1002","KLA eSL10 e-Beam Review","2000","SP03",2,1022000,"2025-06-01","2025-06-01",true,true,0,"\N",0,0,0,"Shipped",266000
+"SO-4500381",10,"Samsung Semiconductor","MAT-1004","ICOS F160 Die Sorter","1000","SP02",1,482000,"2025-02-07","2025-02-07",true,true,0,"\N",0,0,0,"Shipped",250900
+"SO-4500382",10,"TSMC","MAT-1006","Candela CS920 Surface Analyzer","3000","SP04",2,528000,"2025-08-07","2025-08-07",true,true,0,"\N",0,0,0,"Shipped",137500
+"SO-4500383",10,"GlobalFoundries","MAT-1002","KLA eSL10 e-Beam Review","2000","SP03",1,511000,"2025-05-14","2025-05-14",true,true,0,"\N",0,0,0,"Shipped",266000
+"SO-4500384",10,"GlobalFoundries","MAT-1002","KLA eSL10 e-Beam Review","3000","SP04",2,1022000,"2025-05-29","2025-05-29",true,true,0,"\N",0,0,0,"Shipped",266000
+"SO-4500385",10,"Infineon Technologies","MAT-1008","Kronos 1190 WI Patterned Inspection","1000","SP01",2,860000,"2025-01-14","2025-01-31",false,false,17,"MATERIAL_SHORTAGE",43000,22000,65000,"Shipped",224200
+"SO-4500386",10,"Texas Instruments","MAT-1005","Archer 750 Overlay Metrology","3000","SP04",1,283000,"2025-05-13","2025-05-13",true,true,0,"\N",0,0,0,"Shipped",147300
+"SO-4500387",10,"TSMC","MAT-1003","Surfscan SP7XP","5000","SP06",1,420000,"2025-07-05","2025-07-05",true,true,0,"\N",0,0,0,"Shipped",218800
+"SO-4500388",10,"SK Hynix","MAT-1001","KLA 8935 Wafer Inspection System","4000","SP05",1,648000,"2025-04-19","2025-04-19",true,true,0,"\N",0,0,0,"Shipped",337500
+"SO-4500389",10,"Texas Instruments","MAT-1008","Kronos 1190 WI Patterned Inspection","1000","SP01",2,860000,"2025-02-01","2025-02-01",true,true,0,"\N",0,0,0,"Shipped",224200
+"SO-4500390",10,"Infineon Technologies","MAT-1005","Archer 750 Overlay Metrology","2000","SP03",2,566000,"2025-01-11","2025-01-11",true,true,0,"\N",0,0,0,"Shipped",147300
+"SO-4500391",10,"Samsung Semiconductor","MAT-1007","Puma 9980 Laser Scanning","1000","SP02",1,338000,"2025-03-24","2025-03-24",true,true,0,"\N",0,0,0,"Shipped",175800
+"SO-4500392",10,"Micron Technology","MAT-1006","Candela CS920 Surface Analyzer","1000","SP02",1,264000,"2025-07-01","2025-07-01",true,true,0,"\N",0,0,0,"Shipped",137500
+"SO-4500393",10,"SK Hynix","MAT-1006","Candela CS920 Surface Analyzer","3000","SP04",2,528000,"2025-08-17","2025-08-27",false,true,10,"QUALITY_HOLD",26400,14000,40400,"Shipped",137500
+"SO-4500394",10,"Samsung Semiconductor","MAT-1002","KLA eSL10 e-Beam Review","2000","SP03",2,1022000,"2025-07-04","2025-07-04",true,true,0,"\N",0,0,0,"Shipped",266000
+"SO-4500395",10,"Intel Fab","MAT-1008","Kronos 1190 WI Patterned Inspection","1000","SP01",2,860000,"2025-09-30","2025-09-30",true,true,0,"\N",0,0,0,"Shipped",224200
+"SO-4500396",10,"Texas Instruments","MAT-1006","Candela CS920 Surface Analyzer","1000","SP02",2,528000,"2025-09-12","2025-09-12",true,true,0,"\N",0,0,0,"Shipped",137500
+"SO-4500397",10,"Micron Technology","MAT-1004","ICOS F160 Die Sorter","1000","SP01",2,964000,"2025-09-29","2025-09-29",true,true,0,"\N",0,0,0,"Shipped",250900
+"SO-4500398",10,"Samsung Semiconductor","MAT-1002","KLA eSL10 e-Beam Review","2000","SP03",1,511000,"2025-09-17","2025-09-29",false,true,12,"MATERIAL_SHORTAGE",25550,0,25550,"Shipped",266000
+"SO-4500399",10,"Infineon Technologies","MAT-1001","KLA 8935 Wafer Inspection System","4000","SP05",1,648000,"2025-07-19","2025-07-19",true,true,0,"\N",0,0,0,"Shipped",337500
+"SO-4500400",10,"Texas Instruments","MAT-1007","Puma 9980 Laser Scanning","1000","SP01",2,676000,"2025-05-03","2025-05-03",true,true,0,"\N",0,0,0,"Shipped",175800
+"SO-4500401",10,"GlobalFoundries","MAT-1008","Kronos 1190 WI Patterned Inspection","1000","SP02",2,860000,"2025-03-02","2025-03-02",true,true,0,"\N",0,0,0,"Shipped",224200
+"SO-4500402",10,"Micron Technology","MAT-1008","Kronos 1190 WI Patterned Inspection","1000","SP02",2,860000,"2025-03-16","2025-03-16",true,true,0,"\N",0,0,0,"Shipped",224200
+"SO-4500403",10,"GlobalFoundries","MAT-1008","Kronos 1190 WI Patterned Inspection","1000","SP01",2,860000,"2025-06-18","2025-06-26",false,false,8,"MATERIAL_SHORTAGE",34400,14000,48400,"Shipped",224200
+"SO-4500404",10,"Intel Fab","MAT-1005","Archer 750 Overlay Metrology","3000","SP04",2,566000,"2025-07-10","2025-07-10",true,true,0,"\N",0,0,0,"Shipped",147300
+"SO-4500405",10,"Micron Technology","MAT-1002","KLA eSL10 e-Beam Review","3000","SP04",2,1022000,"2025-05-19","2025-05-19",true,true,0,"\N",0,0,0,"Shipped",266000
+"SO-4500406",10,"Samsung Semiconductor","MAT-1004","ICOS F160 Die Sorter","5000","SP06",2,964000,"2025-01-16","2025-01-16",true,true,0,"\N",0,0,0,"Shipped",250900
+"SO-4500407",10,"Intel Fab","MAT-1008","Kronos 1190 WI Patterned Inspection","1000","SP01",3,1290000,"2025-04-04","2025-04-21",false,true,17,"MATERIAL_SHORTAGE",64500,22000,86500,"Shipped",224200
+"SO-4500408",10,"Micron Technology","MAT-1003","Surfscan SP7XP","5000","SP06",2,840000,"2025-04-23","2025-04-23",true,true,0,"\N",0,0,0,"Shipped",218800
+"SO-4500409",10,"SK Hynix","MAT-1004","ICOS F160 Die Sorter","1000","SP01",1,482000,"2025-05-08","2025-05-08",true,true,0,"\N",0,0,0,"Shipped",250900
+"SO-4500410",10,"Infineon Technologies","MAT-1001","KLA 8935 Wafer Inspection System","2000","SP03",3,1944000,"2025-01-25","2025-01-25",true,true,0,"\N",0,0,0,"Shipped",337500
+"SO-4500411",10,"SK Hynix","MAT-1004","ICOS F160 Die Sorter","1000","SP02",1,482000,"2025-09-02","2025-09-13",false,false,11,"MATERIAL_SHORTAGE",24100,14000,38100,"Shipped",250900
+"SO-4500412",10,"SK Hynix","MAT-1001","KLA 8935 Wafer Inspection System","4000","SP05",1,648000,"2025-02-20","2025-02-20",true,true,0,"\N",0,0,0,"Shipped",337500
+"SO-4500413",10,"Intel Fab","MAT-1005","Archer 750 Overlay Metrology","3000","SP04",3,849000,"2025-03-27","2025-03-27",true,true,0,"\N",0,0,0,"Shipped",147300
+"SO-4500414",10,"Micron Technology","MAT-1004","ICOS F160 Die Sorter","5000","SP06",1,482000,"2025-06-25","2025-06-29",false,true,4,"QUALITY_HOLD",9640,22000,31640,"Shipped",250900
+"SO-4500415",10,"SK Hynix","MAT-1002","KLA eSL10 e-Beam Review","2000","SP03",2,1022000,"2025-04-18","2025-04-18",true,true,0,"\N",0,0,0,"Shipped",266000
+"SO-4500416",10,"Infineon Technologies","MAT-1005","Archer 750 Overlay Metrology","2000","SP03",1,283000,"2025-03-23","2025-03-23",true,true,0,"\N",0,0,0,"Shipped",147300
+"SO-4500417",10,"Texas Instruments","MAT-1001","KLA 8935 Wafer Inspection System","1000","SP01",1,648000,"2025-03-08","2025-03-27",false,true,19,"EQUIPMENT",32400,8500,40900,"Shipped",337500
+"SO-4500418",10,"GlobalFoundries","MAT-1007","Puma 9980 Laser Scanning","1000","SP02",1,338000,"2025-09-06","2025-09-12",false,false,6,"PERFORMANCE",10140,8500,18640,"Shipped",175800
+"SO-4500419",10,"Samsung Semiconductor","MAT-1004","ICOS F160 Die Sorter","5000","SP06",1,482000,"2025-09-02","2025-09-02",true,true,0,"\N",0,0,0,"Shipped",250900
+"SO-4500420",10,"Texas Instruments","MAT-1001","KLA 8935 Wafer Inspection System","1000","SP01",2,1296000,"2025-07-19","2025-07-19",true,true,0,"\N",0,0,0,"Shipped",337500
+"SO-4500421",10,"GlobalFoundries","MAT-1005","Archer 750 Overlay Metrology","3000","SP04",1,283000,"2025-09-29","2025-09-29",true,true,0,"\N",0,0,0,"Shipped",147300
+"SO-4500422",10,"Samsung Semiconductor","MAT-1007","Puma 9980 Laser Scanning","1000","SP01",2,676000,"2025-04-05","2025-04-14",false,false,9,"MATERIAL_SHORTAGE",30420,14000,44420,"Shipped",175800
+"SO-4500423",10,"Texas Instruments","MAT-1002","KLA eSL10 e-Beam Review","2000","SP03",1,511000,"2025-07-21","2025-07-21",true,true,0,"\N",0,0,0,"Shipped",266000
+"SO-4500424",10,"Micron Technology","MAT-1002","KLA eSL10 e-Beam Review","3000","SP04",3,1533000,"2025-03-12","2025-03-12",true,true,0,"\N",0,0,0,"Shipped",266000
+"SO-4500425",10,"Intel Fab","MAT-1006","Candela CS920 Surface Analyzer","1000","SP02",3,792000,"2025-03-07","2025-03-07",true,true,0,"\N",0,0,0,"Shipped",137500
+"SO-4500426",10,"Texas Instruments","MAT-1002","KLA eSL10 e-Beam Review","1000","SP02",1,511000,"2025-04-30","2025-04-30",true,true,0,"\N",0,0,0,"Shipped",266000
+"SO-4500427",10,"TSMC","MAT-1001","KLA 8935 Wafer Inspection System","4000","SP05",2,1296000,"2025-05-18","2025-05-18",true,true,0,"\N",0,0,0,"Shipped",337500
+"SO-4500428",10,"GlobalFoundries","MAT-1006","Candela CS920 Surface Analyzer","1000","SP02",1,264000,"2025-05-16","2025-05-16",true,true,0,"\N",0,0,0,"Shipped",137500
+"SO-4500429",10,"SK Hynix","MAT-1004","ICOS F160 Die Sorter","1000","SP01",2,964000,"2025-08-03","2025-08-19",false,false,16,"EQUIPMENT",48200,8500,56700,"Shipped",250900
+"SO-4500430",10,"Samsung Semiconductor","MAT-1006","Candela CS920 Surface Analyzer","1000","SP01",3,792000,"2025-05-17","2025-05-17",true,true,0,"\N",0,0,0,"Shipped",137500
+"SO-4500431",10,"Infineon Technologies","MAT-1004","ICOS F160 Die Sorter","1000","SP01",2,964000,"2025-09-28","2025-09-28",true,true,0,"\N",0,0,0,"Shipped",250900
+"SO-4500432",10,"TSMC","MAT-1002","KLA eSL10 e-Beam Review","3000","SP04",3,1533000,"2025-05-08","2025-05-08",true,true,0,"\N",0,0,0,"Shipped",266000
+"SO-4500433",10,"SK Hynix","MAT-1005","Archer 750 Overlay Metrology","3000","SP04",1,283000,"2025-09-07","2025-09-07",true,true,0,"\N",0,0,0,"Shipped",147300
+"SO-4500434",10,"Texas Instruments","MAT-1003","Surfscan SP7XP","4000","SP05",2,840000,"2025-09-12","2025-09-12",true,true,0,"\N",0,0,0,"Shipped",218800
+"SO-4500435",10,"TSMC","MAT-1006","Candela CS920 Surface Analyzer","3000","SP04",1,264000,"2025-05-04","2025-05-04",true,true,0,"\N",0,0,0,"Shipped",137500
+"SO-4500436",10,"GlobalFoundries","MAT-1002","KLA eSL10 e-Beam Review","1000","SP01",1,511000,"2025-04-25","2025-05-07",false,true,12,"MATERIAL_SHORTAGE",25550,8500,34050,"Shipped",266000
+"SO-4500437",10,"SK Hynix","MAT-1002","KLA eSL10 e-Beam Review","2000","SP03",3,1533000,"2025-07-17","2025-08-02",false,false,16,"QUALITY_HOLD",76650,8500,85150,"Shipped",266000
+"SO-4500438",10,"Micron Technology","MAT-1007","Puma 9980 Laser Scanning","1000","SP02",1,338000,"2025-09-01","2025-09-01",true,true,0,"\N",0,0,0,"Shipped",175800
+"SO-4500439",10,"Texas Instruments","MAT-1006","Candela CS920 Surface Analyzer","3000","SP04",1,264000,"2025-03-19","2025-03-19",true,true,0,"\N",0,0,0,"Shipped",137500
+"SO-4500440",10,"Texas Instruments","MAT-1006","Candela CS920 Surface Analyzer","3000","SP04",1,264000,"2025-08-28","2025-08-28",true,true,0,"\N",0,0,0,"Shipped",137500
+"SO-4500441",10,"TSMC","MAT-1008","Kronos 1190 WI Patterned Inspection","1000","SP01",2,860000,"2025-01-31","2025-02-11",false,true,11,"MATERIAL_SHORTAGE",43000,22000,65000,"Shipped",224200
+"SO-4500442",10,"SK Hynix","MAT-1008","Kronos 1190 WI Patterned Inspection","1000","SP02",1,430000,"2025-04-04","2025-04-20",false,true,16,"MATERIAL_SHORTAGE",21500,8500,30000,"Shipped",224200
+"SO-4500443",10,"TSMC","MAT-1001","KLA 8935 Wafer Inspection System","2000","SP03",1,648000,"2025-03-30","2025-03-30",true,true,0,"\N",0,0,0,"Shipped",337500
+"SO-4500444",10,"Intel Fab","MAT-1006","Candela CS920 Surface Analyzer","3000","SP04",1,264000,"2025-08-06","2025-08-06",true,true,0,"\N",0,0,0,"Shipped",137500
+"SO-4500445",10,"TSMC","MAT-1006","Candela CS920 Surface Analyzer","3000","SP04",3,792000,"2025-08-02","2025-08-20",false,true,18,"MATERIAL_SHORTAGE",39600,14000,53600,"Shipped",137500
+"SO-4500446",10,"Texas Instruments","MAT-1004","ICOS F160 Die Sorter","5000","SP06",1,482000,"2025-03-22","2025-03-22",true,true,0,"\N",0,0,0,"Shipped",250900
+"SO-4500447",10,"Samsung Semiconductor","MAT-1005","Archer 750 Overlay Metrology","2000","SP03",2,566000,"2025-03-26","2025-03-26",true,true,0,"\N",0,0,0,"Shipped",147300
+"SO-4500448",10,"SK Hynix","MAT-1004","ICOS F160 Die Sorter","1000","SP02",2,964000,"2025-02-22","2025-02-22",true,true,0,"\N",0,0,0,"Shipped",250900
+"SO-4500449",10,"Infineon Technologies","MAT-1004","ICOS F160 Die Sorter","1000","SP01",2,964000,"2025-04-19","2025-04-19",true,true,0,"\N",0,0,0,"Shipped",250900
+"SO-4500450",10,"SK Hynix","MAT-1003","Surfscan SP7XP","5000","SP06",2,840000,"2025-09-26","2025-09-26",true,true,0,"\N",0,0,0,"Shipped",218800
+"SO-4500451",10,"Samsung Semiconductor","MAT-1004","ICOS F160 Die Sorter","5000","SP06",1,482000,"2025-02-19","2025-02-19",true,true,0,"\N",0,0,0,"Shipped",250900
+"SO-4500452",10,"Infineon Technologies","MAT-1001","KLA 8935 Wafer Inspection System","2000","SP03",1,648000,"2025-05-11","2025-05-11",true,true,0,"\N",0,0,0,"Shipped",337500
+"SO-4500453",10,"Intel Fab","MAT-1007","Puma 9980 Laser Scanning","1000","SP01",1,338000,"2025-08-11","2025-08-20",false,true,9,"EQUIPMENT",15210,14000,29210,"Shipped",175800
+"SO-4500454",10,"Infineon Technologies","MAT-1005","Archer 750 Overlay Metrology","3000","SP04",1,283000,"2025-09-22","2025-09-22",true,true,0,"\N",0,0,0,"Shipped",147300
+"SO-4500455",10,"TSMC","MAT-1007","Puma 9980 Laser Scanning","1000","SP01",1,338000,"2025-09-18","2025-09-18",true,true,0,"\N",0,0,0,"Shipped",175800
+"SO-4500456",10,"Intel Fab","MAT-1003","Surfscan SP7XP","5000","SP06",1,420000,"2025-04-03","2025-04-03",true,true,0,"\N",0,0,0,"Shipped",218800
+"SO-4500457",10,"Intel Fab","MAT-1007","Puma 9980 Laser Scanning","1000","SP02",2,676000,"2025-05-30","2025-05-30",true,true,0,"\N",0,0,0,"Shipped",175800
+"SO-4500458",10,"Samsung Semiconductor","MAT-1001","KLA 8935 Wafer Inspection System","2000","SP03",2,1296000,"2025-07-17","2025-07-17",true,true,0,"\N",0,0,0,"Shipped",337500
+"SO-4500459",10,"Micron Technology","MAT-1004","ICOS F160 Die Sorter","1000","SP02",2,964000,"2025-06-12","2025-06-12",true,true,0,"\N",0,0,0,"Shipped",250900
+"SO-4500460",10,"Infineon Technologies","MAT-1006","Candela CS920 Surface Analyzer","1000","SP02",2,528000,"2025-05-07","2025-05-07",true,true,0,"\N",0,0,0,"Shipped",137500
+"SO-4500461",10,"Infineon Technologies","MAT-1003","Surfscan SP7XP","4000","SP05",1,420000,"2025-08-15","2025-08-20",false,true,5,"LOGISTICS",10500,0,10500,"Shipped",218800
+"SO-4500462",10,"SK Hynix","MAT-1003","Surfscan SP7XP","5000","SP06",1,420000,"2025-09-29","2025-09-29",true,true,0,"\N",0,0,0,"Shipped",218800
+"SO-4500463",10,"SK Hynix","MAT-1005","Archer 750 Overlay Metrology","3000","SP04",1,283000,"2025-09-03","2025-09-03",true,true,0,"\N",0,0,0,"Shipped",147300
+"SO-4500464",10,"Micron Technology","MAT-1004","ICOS F160 Die Sorter","1000","SP01",1,482000,"2025-02-22","2025-03-12",false,true,18,"MATERIAL_SHORTAGE",24100,8500,32600,"Shipped",250900
+"SO-4500465",10,"TSMC","MAT-1002","KLA eSL10 e-Beam Review","3000","SP04",2,1022000,"2025-06-23","2025-06-23",true,true,0,"\N",0,0,0,"Shipped",266000
+"SO-4500466",10,"Texas Instruments","MAT-1005","Archer 750 Overlay Metrology","2000","SP03",1,283000,"2025-05-06","2025-05-06",true,true,0,"\N",0,0,0,"Shipped",147300
+"SO-4500467",10,"TSMC","MAT-1007","Puma 9980 Laser Scanning","1000","SP01",2,676000,"2025-08-06","2025-08-19",false,true,13,"MATERIAL_SHORTAGE",33800,0,33800,"Shipped",175800
+"SO-4500468",10,"Infineon Technologies","MAT-1002","KLA eSL10 e-Beam Review","3000","SP04",1,511000,"2025-04-26","2025-04-30",false,true,4,"QUALITY_HOLD",10220,0,10220,"Shipped",266000
+"SO-4500469",10,"Infineon Technologies","MAT-1007","Puma 9980 Laser Scanning","1000","SP01",2,676000,"2025-06-02","2025-06-06",false,true,4,"MATERIAL_SHORTAGE",13520,14000,27520,"Shipped",175800
+"SO-4500470",10,"Texas Instruments","MAT-1002","KLA eSL10 e-Beam Review","1000","SP01",2,1022000,"2025-01-25","2025-01-25",true,true,0,"\N",0,0,0,"Shipped",266000
+"SO-4500471",10,"Texas Instruments","MAT-1005","Archer 750 Overlay Metrology","3000","SP04",2,566000,"2025-03-13","2025-03-13",true,true,0,"\N",0,0,0,"Shipped",147300
+"SO-4500472",10,"Intel Fab","MAT-1004","ICOS F160 Die Sorter","1000","SP02",1,482000,"2025-08-22","2025-09-05",false,true,14,"EQUIPMENT",24100,8500,32600,"Shipped",250900
+"SO-4500473",10,"Intel Fab","MAT-1004","ICOS F160 Die Sorter","1000","SP02",3,1446000,"2025-03-07","2025-03-20",false,false,13,"EQUIPMENT",72300,0,72300,"Shipped",250900
+"SO-4500474",10,"Samsung Semiconductor","MAT-1003","Surfscan SP7XP","1000","SP01",2,840000,"2025-05-21","2025-06-04",false,true,14,"QUALITY_HOLD",42000,0,42000,"Shipped",218800
+"SO-4500475",10,"Infineon Technologies","MAT-1003","Surfscan SP7XP","1000","SP01",2,840000,"2025-09-20","2025-09-20",true,true,0,"\N",0,0,0,"Shipped",218800
+"SO-4500476",10,"SK Hynix","MAT-1002","KLA eSL10 e-Beam Review","3000","SP04",1,511000,"2025-02-23","2025-02-23",true,true,0,"\N",0,0,0,"Shipped",266000
+"SO-4500477",10,"TSMC","MAT-1008","Kronos 1190 WI Patterned Inspection","1000","SP01",2,860000,"2025-04-02","2025-04-02",true,true,0,"\N",0,0,0,"Shipped",224200
+"SO-4500478",10,"TSMC","MAT-1002","KLA eSL10 e-Beam Review","1000","SP01",1,511000,"2025-05-11","2025-05-23",false,false,12,"EQUIPMENT",25550,8500,34050,"Shipped",266000
+"SO-4500479",10,"Texas Instruments","MAT-1001","KLA 8935 Wafer Inspection System","2000","SP03",1,648000,"2025-04-12","2025-04-12",true,true,0,"\N",0,0,0,"Shipped",337500
+"SO-4500480",10,"Intel Fab","MAT-1004","ICOS F160 Die Sorter","5000","SP06",3,1446000,"2025-09-15","2025-09-15",true,true,0,"\N",0,0,0,"Shipped",250900
+"SO-4500481",10,"Infineon Technologies","MAT-1004","ICOS F160 Die Sorter","1000","SP02",2,964000,"2025-06-29","2025-06-29",true,true,0,"\N",0,0,0,"Shipped",250900
+"SO-4500482",10,"Intel Fab","MAT-1004","ICOS F160 Die Sorter","1000","SP02",2,964000,"2025-06-05","2025-06-05",true,true,0,"\N",0,0,0,"Shipped",250900
+"SO-4500483",10,"SK Hynix","MAT-1005","Archer 750 Overlay Metrology","3000","SP04",1,283000,"2025-06-19","2025-06-19",true,true,0,"\N",0,0,0,"Shipped",147300
+"SO-4500484",10,"SK Hynix","MAT-1007","Puma 9980 Laser Scanning","1000","SP01",1,338000,"2025-04-15","2025-04-15",true,true,0,"\N",0,0,0,"Shipped",175800
+"SO-4500485",10,"TSMC","MAT-1002","KLA eSL10 e-Beam Review","2000","SP03",2,1022000,"2025-03-05","2025-03-05",true,true,0,"\N",0,0,0,"Shipped",266000
+"SO-4500486",10,"GlobalFoundries","MAT-1007","Puma 9980 Laser Scanning","1000","SP01",2,676000,"2025-05-29","2025-05-29",true,true,0,"\N",0,0,0,"Shipped",175800
+"SO-4500487",10,"GlobalFoundries","MAT-1007","Puma 9980 Laser Scanning","1000","SP01",1,338000,"2025-01-11","2025-01-11",true,true,0,"\N",0,0,0,"Shipped",175800
+"SO-4500488",10,"GlobalFoundries","MAT-1002","KLA eSL10 e-Beam Review","2000","SP03",1,511000,"2025-09-28","\N",false,true,19,"MATERIAL_SHORTAGE",25550,0,25550,"Open - at risk",266000
+"SO-4500489",10,"GlobalFoundries","MAT-1006","Candela CS920 Surface Analyzer","3000","SP04",1,264000,"2025-08-15","2025-08-15",true,true,0,"\N",0,0,0,"Shipped",137500
+"SO-4500490",10,"Texas Instruments","MAT-1006","Candela CS920 Surface Analyzer","1000","SP01",1,264000,"2025-04-26","2025-04-26",true,true,0,"\N",0,0,0,"Shipped",137500
+"SO-4500491",10,"Infineon Technologies","MAT-1007","Puma 9980 Laser Scanning","1000","SP01",3,1014000,"2025-05-05","2025-05-20",false,false,15,"MATERIAL_SHORTAGE",50700,14000,64700,"Shipped",175800
+"SO-4500492",10,"SK Hynix","MAT-1004","ICOS F160 Die Sorter","1000","SP01",1,482000,"2025-04-11","2025-04-13",false,true,2,"PERFORMANCE",4820,22000,26820,"Shipped",250900
+"SO-4500493",10,"Intel Fab","MAT-1008","Kronos 1190 WI Patterned Inspection","1000","SP02",3,1290000,"2025-02-15","2025-02-23",false,true,8,"MATERIAL_SHORTAGE",51600,8500,60100,"Shipped",224200
+"SO-4500494",10,"Micron Technology","MAT-1007","Puma 9980 Laser Scanning","1000","SP01",1,338000,"2025-02-06","2025-02-06",true,true,0,"\N",0,0,0,"Shipped",175800
+"SO-4500495",10,"Intel Fab","MAT-1001","KLA 8935 Wafer Inspection System","1000","SP01",3,1944000,"2025-04-28","2025-04-28",true,true,0,"\N",0,0,0,"Shipped",337500
+"SO-4500496",10,"Texas Instruments","MAT-1002","KLA eSL10 e-Beam Review","2000","SP03",1,511000,"2025-06-04","2025-06-22",false,true,18,"MATERIAL_SHORTAGE",25550,0,25550,"Shipped",266000
+"SO-4500497",10,"GlobalFoundries","MAT-1002","KLA eSL10 e-Beam Review","1000","SP02",1,511000,"2025-09-05","2025-09-05",true,true,0,"\N",0,0,0,"Shipped",266000
+"SO-4500498",10,"SK Hynix","MAT-1001","KLA 8935 Wafer Inspection System","4000","SP05",1,648000,"2025-03-20","2025-03-20",true,true,0,"\N",0,0,0,"Shipped",337500
+"SO-4500499",10,"Samsung Semiconductor","MAT-1006","Candela CS920 Surface Analyzer","1000","SP02",2,528000,"2025-09-22","2025-09-22",true,true,0,"\N",0,0,0,"Shipped",137500
+"SO-4500500",10,"GlobalFoundries","MAT-1005","Archer 750 Overlay Metrology","3000","SP04",1,283000,"2025-04-12","2025-04-12",true,true,0,"\N",0,0,0,"Shipped",147300
+"SO-4500501",10,"Intel Fab","MAT-1005","Archer 750 Overlay Metrology","3000","SP04",1,283000,"2025-09-23","2025-09-23",true,true,0,"\N",0,0,0,"Shipped",147300
+"SO-4500502",10,"Samsung Semiconductor","MAT-1006","Candela CS920 Surface Analyzer","1000","SP01",3,792000,"2025-02-26","2025-02-26",true,true,0,"\N",0,0,0,"Shipped",137500
+"SO-4500503",10,"Texas Instruments","MAT-1003","Surfscan SP7XP","4000","SP05",1,420000,"2025-05-19","2025-05-19",true,true,0,"\N",0,0,0,"Shipped",218800
+"SO-4500504",10,"Samsung Semiconductor","MAT-1006","Candela CS920 Surface Analyzer","3000","SP04",1,264000,"2025-02-09","2025-02-09",true,true,0,"\N",0,0,0,"Shipped",137500
+"SO-4500505",10,"Infineon Technologies","MAT-1006","Candela CS920 Surface Analyzer","1000","SP01",1,264000,"2025-03-25","2025-03-29",false,true,4,"EQUIPMENT",5280,0,5280,"Shipped",137500
+"SO-4500506",10,"Samsung Semiconductor","MAT-1001","KLA 8935 Wafer Inspection System","2000","SP03",1,648000,"2025-07-02","2025-07-02",true,true,0,"\N",0,0,0,"Shipped",337500
+"SO-4500507",10,"Intel Fab","MAT-1004","ICOS F160 Die Sorter","1000","SP02",1,482000,"2025-02-17","2025-02-17",true,true,0,"\N",0,0,0,"Shipped",250900
+"SO-4500508",10,"Micron Technology","MAT-1004","ICOS F160 Die Sorter","1000","SP01",2,964000,"2025-07-04","2025-07-04",true,true,0,"\N",0,0,0,"Shipped",250900
+"SO-4500509",10,"GlobalFoundries","MAT-1001","KLA 8935 Wafer Inspection System","4000","SP05",2,1296000,"2025-08-07","2025-08-07",true,true,0,"\N",0,0,0,"Shipped",337500
+"SO-4500510",10,"SK Hynix","MAT-1007","Puma 9980 Laser Scanning","1000","SP02",1,338000,"2025-04-13","2025-05-01",false,true,18,"MATERIAL_SHORTAGE",16900,0,16900,"Shipped",175800
+"SO-4500511",10,"Infineon Technologies","MAT-1007","Puma 9980 Laser Scanning","1000","SP02",1,338000,"2025-03-18","2025-03-23",false,true,5,"MATERIAL_SHORTAGE",8450,14000,22450,"Shipped",175800
+"SO-4500512",10,"TSMC","MAT-1002","KLA eSL10 e-Beam Review","3000","SP04",3,1533000,"2025-09-02","2025-09-02",true,true,0,"\N",0,0,0,"Shipped",266000
+"SO-4500513",10,"Intel Fab","MAT-1003","Surfscan SP7XP","5000","SP06",1,420000,"2025-07-12","2025-07-12",true,true,0,"\N",0,0,0,"Shipped",218800
+"SO-4500514",10,"Texas Instruments","MAT-1001","KLA 8935 Wafer Inspection System","1000","SP01",1,648000,"2025-07-09","2025-07-09",true,true,0,"\N",0,0,0,"Shipped",337500
+"SO-4500515",10,"SK Hynix","MAT-1004","ICOS F160 Die Sorter","5000","SP06",1,482000,"2025-03-19","2025-03-19",true,true,0,"\N",0,0,0,"Shipped",250900
+"SO-4500516",10,"Micron Technology","MAT-1004","ICOS F160 Die Sorter","5000","SP06",1,482000,"2025-04-04","2025-04-04",true,true,0,"\N",0,0,0,"Shipped",250900
+"SO-4500517",10,"SK Hynix","MAT-1001","KLA 8935 Wafer Inspection System","4000","SP05",2,1296000,"2025-03-04","2025-03-04",true,true,0,"\N",0,0,0,"Shipped",337500
+"SO-4500518",10,"Infineon Technologies","MAT-1002","KLA eSL10 e-Beam Review","3000","SP04",1,511000,"2025-02-16","2025-02-22",false,false,6,"PERFORMANCE",15330,0,15330,"Shipped",266000
+"SO-4500519",10,"Samsung Semiconductor","MAT-1003","Surfscan SP7XP","4000","SP05",1,420000,"2025-09-26","2025-09-26",true,true,0,"\N",0,0,0,"Shipped",218800

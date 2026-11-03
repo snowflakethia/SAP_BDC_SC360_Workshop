@@ -1,0 +1,26 @@
+Copyright 2026 Snowflake Inc.
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use the files in this repository except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+-------------------------------------------------------------------------------
+DATA NOTICE
+
+All data in the data/ folder is synthetic and was generated for training.
+Company, supplier, customer, plant and product names are used only to make the
+scenario realistic. The figures do not describe, and must not be read as
+describing, any real organisation, transaction or relationship. SAP and other
+product names are trademarks of their respective owners; their use here does
+not imply endorsement.
+
+This material is provided for training. It is not a supported Snowflake product
+and is not intended for production use.

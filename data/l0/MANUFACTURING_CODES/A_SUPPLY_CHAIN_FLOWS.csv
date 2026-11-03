@@ -1,0 +1,28 @@
+"FLOW_ID","SOURCE_NODE","TARGET_NODE","FLOW_TYPE","MATERIAL_CATEGORY","MONTHLY_VOLUME","MONTHLY_VALUE"
+"FL-001","SUP-001","PLT-1000","Inbound","Light Sources",12,1020000.00
+"FL-002","SUP-001","PLT-2000","Inbound","Light Sources",8,680000.00
+"FL-003","SUP-002","PLT-1000","Inbound","CCD Arrays",20,840000.00
+"FL-004","SUP-002","PLT-3000","Inbound","CCD Arrays",10,420000.00
+"FL-005","SUP-003","PLT-1000","Inbound","Motion Stages",6,402000.00
+"FL-006","SUP-003","PLT-4000","Inbound","Motion Stages",4,268000.00
+"FL-007","SUP-004","PLT-3000","Inbound","Laser Modules",8,736000.00
+"FL-008","SUP-004","PLT-1000","Inbound","Laser Modules",5,460000.00
+"FL-009","SUP-005","PLT-5000","Inbound","Pneumatic Components",30,660000.00
+"FL-010","SUP-005","PLT-4000","Inbound","Pneumatic Components",20,440000.00
+"FL-011","SUP-006","PLT-1000","Inbound","DUV Lasers",4,420000.00
+"FL-012","SUP-006","PLT-2000","Inbound","DUV Lasers",3,315000.00
+"FL-013","PLT-1000","CUS-001","Outbound","Inspection Systems",4,8400000.00
+"FL-014","PLT-1000","CUS-002","Outbound","Inspection Systems",3,6300000.00
+"FL-015","PLT-1000","CUS-003","Outbound","Metrology",5,4500000.00
+"FL-016","PLT-2000","CUS-004","Outbound","Inspection Systems",2,4200000.00
+"FL-017","PLT-2000","CUS-005","Outbound","Metrology",3,2700000.00
+"FL-018","PLT-3000","CUS-007","Outbound","E-Beam Review",2,5200000.00
+"FL-019","PLT-3000","CUS-002","Outbound","Inspection Systems",2,4200000.00
+"FL-020","PLT-4000","CUS-001","Outbound","Surface Analysis",3,2700000.00
+"FL-021","PLT-4000","CUS-006","Outbound","Surface Analysis",2,1800000.00
+"FL-022","PLT-5000","CUS-001","Outbound","Die Sorting",8,3600000.00
+"FL-023","PLT-5000","CUS-008","Outbound","Die Sorting",5,2250000.00
+"FL-024","PLT-1000","PLT-4000","Inter-plant","Sub-assemblies",15,1200000.00
+"FL-025","PLT-1000","PLT-5000","Inter-plant","Sub-assemblies",20,1600000.00
+"FL-026","PLT-3000","PLT-4000","Inter-plant","Optics Modules",6,900000.00
+"FL-027","PLT-2000","PLT-5000","Inter-plant","Test Fixtures",8,480000.00

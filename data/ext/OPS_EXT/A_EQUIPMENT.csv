@@ -1,0 +1,21 @@
+"EQUIPMENT_ID","EQUIPMENT_NAME","EQUIPMENT_TYPE","WORK_CENTER","PLANT","CRITICALITY","INSTALL_YEAR","REPAIR_COST_PER_HR"
+"EQ-ASM4-1","Robotic Assembly Cell ASM4-1","Robotic Assembly Cell","WC-ASM4","4000","B",2019,2400
+"EQ-ASM5-1","Robotic Assembly Cell ASM5-1","Robotic Assembly Cell","WC-ASM5","5000","B",2021,3200
+"EQ-DEP2-1","CVD Chamber DEP2-1","CVD Chamber","WC-DEP2","2000","B",2020,2400
+"EQ-DEP2-2","PVD Chamber DEP2-2","PVD Chamber","WC-DEP2","2000","C",2023,4500
+"EQ-DEPO-1","CVD Chamber DEPO-1","CVD Chamber","WC-DEPO","1000","B",2022,2400
+"EQ-DEPO-2","PVD Chamber DEPO-2","PVD Chamber","WC-DEPO","1000","C",2020,3200
+"EQ-ETC2-1","Plasma Etcher ETC2-1","Plasma Etcher","WC-ETC2","2000","A",2016,3200
+"EQ-ETC3-1","Plasma Etcher ETC3-1","Plasma Etcher","WC-ETC3","3000","C",2020,4500
+"EQ-ETCH-1","Plasma Etcher ETCH-1","Plasma Etcher","WC-ETCH","1000","C",2022,1800
+"EQ-INS2-1","Metrology Cell INS2-1","Metrology Cell","WC-INS2","2000","C",2020,3200
+"EQ-INSP-1","Metrology Cell INSP-1","Metrology Cell","WC-INSP","1000","C",2022,2400
+"EQ-LIT2-1","Stepper LIT2-1","Stepper","WC-LIT2","2000","B",2021,1800
+"EQ-LIT2-2","Track LIT2-2","Track","WC-LIT2","2000","A",2017,2400
+"EQ-LIT3-1","Stepper LIT3-1","Stepper","WC-LIT3","3000","B",2022,4500
+"EQ-LIT3-2","Track LIT3-2","Track","WC-LIT3","3000","B",2016,3200
+"EQ-LITHO-1","Stepper LITHO-1","Stepper","WC-LITHO","1000","C",2018,1800
+"EQ-LITHO-2","Track LITHO-2","Track","WC-LITHO","1000","A",2016,2400
+"EQ-PKG-1","Crating Line PKG-1","Crating Line","WC-PKG","1000","C",2023,4500
+"EQ-PKG5-1","Crating Line PKG5-1","Crating Line","WC-PKG5","5000","B",2018,2400
+"EQ-TST4-1","Final Test Bay TST4-1","Final Test Bay","WC-TST4","4000","C",2016,1800

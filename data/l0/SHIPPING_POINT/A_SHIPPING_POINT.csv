@@ -1,0 +1,7 @@
+"SHIPPING_POINT","SHIPPING_POINT_DESC","FACTORY_CALENDAR","COUNTRY","DEPARTURE_ZONE","PLANT"
+"SP01","San Jose Dock A","US","US","WEST","1000"
+"SP02","San Jose Dock B","US","US","WEST","1000"
+"SP03","Austin Shipping","US","US","CENT","2000"
+"SP04","Dresden Export","DE","DE","EUR","3000"
+"SP05","Singapore Port","SG","SG","APAC","4000"
+"SP06","Penang Logistics","MY","MY","APAC","5000"

@@ -1,0 +1,6 @@
+"PLANT","PLANT_NAME","FACTORY_CALENDAR","COUNTRY_KEY","CITY","COMPANY_CODE","VALUATION_AREA","CREATED_DATE"
+"1000","San Jose HQ","US","US","San Jose","1000","1000","2020-01-01"
+"2000","Austin Fab","US","US","Austin","1000","2000","2020-03-15"
+"3000","Dresden Fab","DE","DE","Dresden","2000","3000","2019-06-01"
+"4000","Singapore Hub","SG","SG","Singapore","3000","4000","2021-02-01"
+"5000","Penang Assembly","MY","MY","Penang","3000","5000","2021-08-01"
